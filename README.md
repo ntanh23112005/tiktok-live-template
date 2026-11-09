@@ -2,7 +2,7 @@
 SHARE 3 TOOLS MINI GAME LIVE TIKTOK GAME FOR COMMUNITY
 
 ## GIỚI THIỆU DỰ ÁN
-- **Tổng quan:** Đây là tool game tiktok live, gồm có 3 game
+- **Tổng quan:** Đây là tool game tiktok live, gồm có 3 game tương ứng với các tên folder trong mã nguồn này:
   - Đi chùa Online **(theanh)**
   - Hang Manchester United **(mu-theanh)**
   - Bắn súng lên tường, lên tượng **(threejs-theanh)**
