@@ -36,6 +36,7 @@ SHARE 3 TOOLS MINI GAME LIVE TIKTOK GAME FOR COMMUNITY
     - **Step 3:**
       - **Live bằng Tik Tok Studio:** Mở Tik Tok Studio -> Add Source Live -> Chọn " Nguồn màn hình (Display capture / Window capture) " -> Thêm đường dẫn (ví dụ lúc chạy tool để là: http://127.0.0.1:3000/overplay) -> Điền vào ô source là http://127.0.0.1:3000/overplay#tiktol.studio để tiktok studio hiểu đường dẫn -> Kiểm tra thật kĩ các tính năng trước khi bấm bắt đầu Live
       - **Live bằng OBS:** Liên hệ facebook: https://facebook.com/ntanh23112005 để nhận hướng dẫn cách lấy **Tiktok Stream Key cho OBS** _(BÉ XIN TÍ NƯỚC LỌC)_
+    - **Step 4:** Quay lại Tab vận hành trong trang admin, kết nối @<username> live tiktok của bạn vào
 
   - **Đối với máy MacOS:**
     - Hãy sử dụng AI để viết ra 1 file Batch chạy như của windows và làm tương tự
