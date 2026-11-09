@@ -1,0 +1,695 @@
+[
+  {
+    "id": "fan-001",
+    "number": 1,
+    "title": "Chào hang, chào anh em",
+    "message": "Vào hang nhớ mang áo đỏ. Mang thêm niềm tin thì càng tốt.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-002",
+    "number": 2,
+    "title": "Fan hệ kiên trì",
+    "message": "Thắng thì vui cùng nhau. Chưa thắng thì vẫn có anh em trong hang.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-003",
+    "number": 3,
+    "title": "Đèn hang còn sáng",
+    "message": "Ngoài kia mưa gió thế nào, đèn trong hang vẫn chờ bạn.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-004",
+    "number": 4,
+    "title": "Compa khởi động",
+    "message": "Xoay một vòng cho tỉnh ngủ. Xoay hai vòng nhớ tìm lại quả bóng.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-005",
+    "number": 5,
+    "title": "Hẹn trận sau",
+    "message": "Câu nói quen thuộc nhất của fan chân chính: thôi, hẹn trận sau.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-006",
+    "number": 6,
+    "title": "Niềm tin dự bị",
+    "message": "Niềm tin hôm nay hơi mệt. Xin phép vào sân từ băng ghế dự bị.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-007",
+    "number": 7,
+    "title": "Áo đỏ không phai",
+    "message": "Tỷ số có thể đổi. Chiếc áo đỏ trong lòng thì vẫn vậy.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-008",
+    "number": 8,
+    "title": "Chủ hang mới tới",
+    "message": "Xin nhường lối cho một cổ động viên mang theo cả túi hy vọng.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-009",
+    "number": 9,
+    "title": "Đừng tắt tivi",
+    "message": "Chưa hết giờ thì còn hy vọng. Nhưng điều khiển cứ để xa một chút.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-010",
+    "number": 10,
+    "title": "SIUUU cho tỉnh",
+    "message": "Buồn ngủ thì đứng dậy làm một pha siu. Nhớ nhìn trần nhà trước.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-011",
+    "number": 11,
+    "title": "Đội hình trong mơ",
+    "message": "Đội hình mạnh nhất đêm nay là anh em cùng thức xem bóng.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-012",
+    "number": 12,
+    "title": "Hậu vệ bàn phím",
+    "message": "Phân tích chiến thuật rất sâu. Ra sân chạy hai vòng là xin thay người.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-013",
+    "number": 13,
+    "title": "Bình luận viên trong hang",
+    "message": "Chưa thấy bóng đã nghe tiếng hò. Đúng là bình luận viên hệ đam mê.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-014",
+    "number": 14,
+    "title": "Vô lăng của Ole",
+    "message": "Cầm lái cho chắc nhé. Anh em phía sau còn đang nâng cốc nước.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-015",
+    "number": 15,
+    "title": "Phút bù niềm tin",
+    "message": "Phút chín mươi cộng thêm niềm tin. Trái tim fan vẫn chưa chịu nghỉ.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-016",
+    "number": 16,
+    "title": "Trà nóng đã sẵn",
+    "message": "Một cốc trà nóng, một chiếc áo đỏ, một đêm bóng đá cùng nhau.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-017",
+    "number": 17,
+    "title": "Ghế dự bị êm quá",
+    "message": "Lên sân thì hồi hộp. Ngồi hang với anh em lại thấy yên tâm.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-018",
+    "number": 18,
+    "title": "Cờ đỏ lên nào",
+    "message": "Không cần hò to nhất. Chỉ cần hò cùng nhau là đủ vui.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-019",
+    "number": 19,
+    "title": "Fan lâu năm",
+    "message": "Hỏi chiến thuật có thể quên. Hỏi yêu đội bao lâu thì kể cả tối.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-020",
+    "number": 20,
+    "title": "Tinh thần thép",
+    "message": "Qua bao mùa bóng, tinh thần vẫn cứng. Riêng gối ôm đã thay mấy chiếc.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-021",
+    "number": 21,
+    "title": "Không bỏ đồng đội",
+    "message": "Bóng đá có ngày vui ngày buồn. Anh em trong hang thì không bỏ nhau.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-022",
+    "number": 22,
+    "title": "Xoay vừa thôi",
+    "message": "Compa đã sẵn sàng. Người xem nhớ ngồi vững để khỏi chóng mặt.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-023",
+    "number": 23,
+    "title": "Chiến thuật bí mật",
+    "message": "Chiến thuật tối nay rất rõ: cổ vũ hết mình và uống đủ nước.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-024",
+    "number": 24,
+    "title": "Niềm tin không hết pin",
+    "message": "Điện thoại sắp hết pin. Niềm tin vào màu áo đỏ vẫn còn đầy.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-025",
+    "number": 25,
+    "title": "Tín hiệu từ khán đài",
+    "message": "Bạn vừa được gọi tên. Một tràng vỗ tay dành cho fan mới trong hang.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-026",
+    "number": 26,
+    "title": "Bàn thắng trong tim",
+    "message": "Có những bàn thắng nhớ mãi. Có những người bạn xem cùng còn nhớ lâu hơn.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-027",
+    "number": 27,
+    "title": "Đừng soi lịch sử",
+    "message": "Hôm nay chỉ nói chuyện vui. Lịch sử trò chuyện sau trận xin được giữ riêng.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-028",
+    "number": 28,
+    "title": "Chưa ra khỏi hang",
+    "message": "Cửa hang chưa mở không phải vì sợ. Chỉ là anh em đang họp chiến thuật.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-029",
+    "number": 29,
+    "title": "Đôi chân vàng",
+    "message": "Chân trái vẽ đường bóng. Chân phải vẽ đường về ghế nghỉ.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-030",
+    "number": 30,
+    "title": "Fan hệ lạc quan",
+    "message": "Một đường chuyền đẹp cũng đủ làm bạn tin vào cả mùa giải.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-031",
+    "number": 31,
+    "title": "Lệnh từ Bá chủ",
+    "message": "Bá chủ vừa ra lệnh: ai vào hang cũng phải có một chỗ vui.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-032",
+    "number": 32,
+    "title": "Phó chủ trực đêm",
+    "message": "Phó chủ đã nhận ca. Việc đầu tiên là kiểm tra trà và đồ ăn vặt.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-033",
+    "number": 33,
+    "title": "Đội trưởng tinh thần",
+    "message": "Không cần đeo băng vẫn có thể dẫn đầu một tràng cổ vũ.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-034",
+    "number": 34,
+    "title": "Bóng chưa lăn, tim đã đập",
+    "message": "Trận đấu chưa bắt đầu. Trái tim fan đã chạy hết tốc lực.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-035",
+    "number": 35,
+    "title": "Lời hứa đầu mùa",
+    "message": "Mùa này chỉ xem cho vui thôi. Một câu hứa chưa chắc giữ được.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-036",
+    "number": 36,
+    "title": "Tủ cúp hy vọng",
+    "message": "Tủ cúp trong hang luôn chừa chỗ. Hy vọng thì không cần xin phép.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-037",
+    "number": 37,
+    "title": "Đánh thức cả hang",
+    "message": "Ai còn buồn ngủ xin giơ tay. Một tiếng hò nữa là tỉnh ngay.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-038",
+    "number": 38,
+    "title": "Khăn đỏ bay lên",
+    "message": "Khăn đỏ đã tung. Nỗi buồn xin để lại ngoài cửa hang.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-039",
+    "number": 39,
+    "title": "Một pha xử lý khó đoán",
+    "message": "Đối thủ chưa đoán được. Đồng đội cũng đang cố đoán.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-040",
+    "number": 40,
+    "title": "Chuyên gia ghế sofa",
+    "message": "Ngồi sofa thấy khoảng trống rất rõ. Xuống sân mới thấy sân rộng thật.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-041",
+    "number": 41,
+    "title": "Phòng họp khẩn",
+    "message": "Hang mở cuộc họp khẩn. Nội dung chính là trận sau ăn món gì.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-042",
+    "number": 42,
+    "title": "Vũ điệu compa",
+    "message": "Bóng đi đâu chưa biết. Nhưng vũ đạo chắc chắn có điểm nhấn.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-043",
+    "number": 43,
+    "title": "Đêm đỏ rực",
+    "message": "Áo đỏ, cờ đỏ, hang cũng đỏ. Riêng mắt thức khuya xin đừng đỏ thêm.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-044",
+    "number": 44,
+    "title": "Chờ còi cuối",
+    "message": "Tiếng còi cuối chưa vang thì câu chuyện vẫn còn một đoạn.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-045",
+    "number": 45,
+    "title": "Fan không cô đơn",
+    "message": "Dù xem ở đâu, vào hang là có người cùng reo và cùng ôm đầu.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-046",
+    "number": 46,
+    "title": "Vòng quay hy vọng",
+    "message": "Xoay một vòng bỏ chuyện cũ. Đứng vững rồi cùng chờ pha bóng mới.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-047",
+    "number": 47,
+    "title": "Đường chuyền tình bạn",
+    "message": "Bạn chuyền một câu chào. Hang đáp lại bằng một chỗ ngồi.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-048",
+    "number": 48,
+    "title": "Tiền đạo đồ ăn vặt",
+    "message": "Tốc độ dứt điểm đồ ăn rất cao. Đề nghị bổ sung ngay trước hiệp hai.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-049",
+    "number": 49,
+    "title": "Hiệp hai lại tin",
+    "message": "Hiệp một hơi căng. Sang hiệp hai, niềm tin tự động được làm mới.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-050",
+    "number": 50,
+    "title": "Nghệ thuật ôm đầu",
+    "message": "Ôm đầu cũng phải đúng kỹ thuật. Nhẹ tay thôi, mai còn đi làm.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-051",
+    "number": 51,
+    "title": "Chúc mừng fan mới",
+    "message": "Chào mừng bạn đến hang. Vé vào cửa là một trái tim yêu bóng đá.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-052",
+    "number": 52,
+    "title": "Phòng thủ từ xa",
+    "message": "Hét lên một tiếng từ ghế xem. Biết đâu tinh thần tới được sân.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-053",
+    "number": 53,
+    "title": "Vô lăng không rung",
+    "message": "Ole cứ cầm lái. Anh em phía sau đã thắt dây an toàn.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-054",
+    "number": 54,
+    "title": "Siu phiên bản hang",
+    "message": "Không cần bay cao như cầu thủ. Vui vừa đủ và giữ an toàn cho đầu gối.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-055",
+    "number": 55,
+    "title": "Hàng thủ niềm tin",
+    "message": "Ai cũng có lúc chệch nhịp. Cổ vũ thêm một chút cho nhau đứng vững.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-056",
+    "number": 56,
+    "title": "Đặt báo thức chưa",
+    "message": "Đam mê thì rất lớn. Báo thức sáng mai cũng cần được tôn trọng.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-057",
+    "number": 57,
+    "title": "Áo đấu may mắn",
+    "message": "Bạn gọi đây là áo may mắn. Máy giặt gọi đây là công việc tồn đọng.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-058",
+    "number": 58,
+    "title": "Chiếc ghế quen thuộc",
+    "message": "Một chiếc ghế cũ, một đội bóng quen, thêm một đêm có anh em.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-059",
+    "number": 59,
+    "title": "Điều chỉnh chiến thuật",
+    "message": "Nếu quá căng thẳng, đứng dậy uống nước. Đó cũng là điều chỉnh chiến thuật.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-060",
+    "number": 60,
+    "title": "Thẻ vàng cho lo âu",
+    "message": "Lo âu nhận một thẻ vàng. Nụ cười được tiếp tục thi đấu.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-061",
+    "number": 61,
+    "title": "Mở khóa tiếng hò",
+    "message": "Một tiếng hò nhỏ từ bạn cũng làm hang náo nhiệt hơn nhiều.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-062",
+    "number": 62,
+    "title": "Không phải chuyên gia",
+    "message": "Không cần biết hết chiến thuật. Yêu bóng đá và tôn trọng nhau là đủ.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-063",
+    "number": 63,
+    "title": "Đá thêm hiệp vui",
+    "message": "Trận đấu có thể khép lại. Cuộc vui trong hang vẫn còn hiệp phụ.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-064",
+    "number": 64,
+    "title": "Sân nhà của anh em",
+    "message": "Vào hang thì chào nhau một tiếng. Cảm giác sân nhà bắt đầu từ đó.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-065",
+    "number": 65,
+    "title": "Kế hoạch thoát hang",
+    "message": "Muốn ra hang phải đi cùng nhau. Đi một mình dễ quên mang khăn đỏ.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-066",
+    "number": 66,
+    "title": "Bảng tỷ số cảm xúc",
+    "message": "Vui một chút, hồi hộp nhiều chút. Đúng chất một đêm xem bóng.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-067",
+    "number": 67,
+    "title": "Niềm tin có bảo hành",
+    "message": "Niềm tin vừa được sửa xong. Xin đừng thử độ bền quá sớm.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-068",
+    "number": 68,
+    "title": "Bù giờ cho nụ cười",
+    "message": "Hôm nay cười chưa đủ thì cộng thêm vài phút nữa.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-069",
+    "number": 69,
+    "title": "Chân sút trong mơ",
+    "message": "Trong mơ bạn sút rất hay. Ngoài đời xin đừng thử trong phòng khách.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-070",
+    "number": 70,
+    "title": "Bá chủ mời nước",
+    "message": "Bá chủ mời cả hang một cốc nước tinh thần. Ai cũng nhớ uống nước thật nhé.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-071",
+    "number": 71,
+    "title": "Cổ vũ đúng nhịp",
+    "message": "Không cần la át người khác. Cùng nhịp mới thành khán đài.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-072",
+    "number": 72,
+    "title": "Đội hình toàn bạn tốt",
+    "message": "Hôm nay hang có đội hình đẹp nhất: toàn người biết động viên nhau.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-073",
+    "number": 73,
+    "title": "Meme để vui thôi",
+    "message": "Cười một pha bóng cho vui. Cầu thủ và người xem đều xứng đáng được tôn trọng.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-074",
+    "number": 74,
+    "title": "Tiếng còi giải lao",
+    "message": "Tạm nghỉ một chút cho mắt. Màu áo đỏ vẫn ở đây chờ bạn.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-075",
+    "number": 75,
+    "title": "Đường bóng lạc quan",
+    "message": "Bóng có thể đi vòng. Hy vọng rồi cũng tìm được đường về.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-076",
+    "number": 76,
+    "title": "Khán đài tại gia",
+    "message": "Ghế nhà thành khán đài. Chỉ cần đừng làm hàng xóm mất ngủ.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-077",
+    "number": 77,
+    "title": "Hợp đồng trọn niềm tin",
+    "message": "Bạn vừa ký hợp đồng cổ vũ. Điều khoản quan trọng nhất là luôn giữ nụ cười.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-078",
+    "number": 78,
+    "title": "Tâm lý chiến sofa",
+    "message": "Ngồi thẳng lên xem bóng có vẻ hiệu quả hơn. Chưa có bằng chứng nhưng cứ thử.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-079",
+    "number": 79,
+    "title": "Ra hang có tổ chức",
+    "message": "Khi cửa hang mở, nhớ xếp hàng. Khăn đỏ và niềm tin không được để quên.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-080",
+    "number": 80,
+    "title": "Chuyền cho niềm vui",
+    "message": "Đừng giữ niềm vui một mình. Chuyền sang người bạn đang xem cùng.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-081",
+    "number": 81,
+    "title": "Phòng thay đồ cảm xúc",
+    "message": "Buồn thì nghỉ một nhịp. Ra sân trở lại với tinh thần nhẹ hơn.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-082",
+    "number": 82,
+    "title": "Chân thành là đủ",
+    "message": "Không cần quà lớn để được chào đón. Có mặt cùng anh em đã là vui.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-083",
+    "number": 83,
+    "title": "Một nhịp tim đỏ",
+    "message": "Bạn vừa góp thêm một nhịp tim cho khán đài trong hang.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-084",
+    "number": 84,
+    "title": "Góc chiến thuật đồ ăn",
+    "message": "Bố trí đồ ăn bên tay thuận. Đừng để lỡ pha bóng vì tìm gói bánh.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-085",
+    "number": 85,
+    "title": "Sưu tập khoảnh khắc",
+    "message": "Có mùa nhớ danh hiệu. Có mùa nhớ người bạn đã cùng mình xem hết.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-086",
+    "number": 86,
+    "title": "Giữ bóng, giữ vui",
+    "message": "Giữ bóng có thể khó. Giữ một câu nói tử tế thì ai cũng làm được.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-087",
+    "number": 87,
+    "title": "Cờ vẫn đang bay",
+    "message": "Gió mạnh thì cờ bay rõ hơn. Khó khăn cũng làm tình bạn hiện rõ hơn.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-088",
+    "number": 88,
+    "title": "Phút cuối vẫn hát",
+    "message": "Dù kết quả thế nào, anh em vẫn có thể cùng hát và chúc nhau ngủ ngon.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-089",
+    "number": 89,
+    "title": "Màn ăn mừng tập thể",
+    "message": "Một người giơ tay, cả hang đứng dậy. Niềm vui lan nhanh hơn mọi đường chuyền.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-090",
+    "number": 90,
+    "title": "Bản lĩnh fan đỏ",
+    "message": "Thắng không kiêu, buồn không bỏ cuộc. Mai vẫn mặc chiếc áo mình yêu.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-091",
+    "number": 91,
+    "title": "Compa hết chóng mặt",
+    "message": "Đã xoay đủ rồi. Giờ đứng lại, nhìn đồng đội và chuyền một đường đẹp.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-092",
+    "number": 92,
+    "title": "Chờ phép màu bóng đá",
+    "message": "Bóng đá hấp dẫn vì không ai biết hết. Cứ để những phút cuối kể tiếp.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-093",
+    "number": 93,
+    "title": "Chìa khóa cửa hang",
+    "message": "Chìa khóa thật đơn giản: một câu chào và một tinh thần vui vẻ.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-094",
+    "number": 94,
+    "title": "Mùa sau lại hẹn",
+    "message": "Mùa sau lại hẹn không phải hết hy vọng. Đó là lời hẹn còn yêu bóng đá.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-095",
+    "number": 95,
+    "title": "Một pha bóng đẹp",
+    "message": "Một pha xử lý đẹp đáng được vỗ tay, dù bạn đang cổ vũ bên nào.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-096",
+    "number": 96,
+    "title": "Vinh quang cùng chia",
+    "message": "Niềm vui lớn nhất là lúc quay sang, thấy có người đang cười cùng mình.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-097",
+    "number": 97,
+    "title": "Lời chào từ Quỷ đỏ",
+    "message": "Hang gửi bạn một lời chào đỏ rực. Chúc bạn có một buổi tối nhiều tiếng cười.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-098",
+    "number": 98,
+    "title": "Giữ lửa fanclub",
+    "message": "Giữ lửa bằng tiếng cười và tình bạn. Đừng giữ bằng tranh cãi với nhau.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  },
+  {
+    "id": "fan-099",
+    "number": 99,
+    "title": "Glory Glory, anh em!",
+    "message": "Chín mươi chín thẻ, một màu áo đỏ. Cảm ơn bạn đã làm hang vui hơn.",
+    "text": "HANG MU · CHUYỆN TRONG HANG"
+  }
+]

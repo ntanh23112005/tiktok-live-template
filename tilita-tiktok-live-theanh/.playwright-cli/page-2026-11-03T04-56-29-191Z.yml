@@ -1,0 +1,206 @@
+- generic [active] [ref=e1]:
+  - main [ref=e3]:
+    - img "Chánh điện chùa gỗ" [ref=e4]
+    - generic [ref=e6]:
+      - generic [ref=e7]: Tâm an lạc
+      - generic [ref=e8]: Hữu duyên gặp gỡ
+    - complementary "Các mức xu và nghi thức" [ref=e9]:
+      - generic [ref=e10]:
+        - strong [ref=e11]: Tương tác · Vào ngồi thiền
+        - generic [ref=e12]: Tim hoặc bình luận bất kỳ
+        - generic [ref=e13]: Cùng ngồi thiền an lạc
+      - generic [ref=e14]:
+        - generic [ref=e22]:
+          - strong [ref=e23]: 1 xu
+          - generic [ref=e24]: Xin quẻ
+        - generic [ref=e31]:
+          - strong [ref=e32]: 3 xu
+          - generic [ref=e33]: Dâng hương
+        - generic [ref=e40]:
+          - strong [ref=e41]: 5 xu
+          - generic [ref=e42]: Hoa sen
+        - generic [ref=e51]:
+          - strong [ref=e52]: 10 xu
+          - generic [ref=e53]: Hoa đăng nguyện
+        - generic [ref=e62]:
+          - strong [ref=e63]: 30 xu
+          - generic [ref=e64]: Mâm lễ
+        - generic [ref=e71]:
+          - strong [ref=e72]: 100 xu
+          - generic [ref=e73]: Đại hồng chung
+        - generic [ref=e81]:
+          - strong [ref=e82]: 500+ xu
+          - generic [ref=e83]: Phật quang phổ chiếu
+    - complementary [ref=e84]:
+      - heading "TOP MÔ PHỎNG" [level=2] [ref=e85]
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]: 1. Minh An
+          - generic [ref=e89]: 400 xu
+        - generic [ref=e90]:
+          - generic [ref=e91]: 2. Thiện Tâm
+          - generic [ref=e92]: 300 xu
+        - generic [ref=e93]:
+          - generic [ref=e94]: 3. Thanh Hoa
+          - generic [ref=e95]: 200 xu
+        - generic [ref=e96]:
+          - generic [ref=e97]: 4. Bình Tâm
+          - generic [ref=e98]: 100 xu
+    - generic [ref=e99]: Đạo tràng 100 người · Nhóm 3/3
+    - generic [ref=e100]:
+      - strong [ref=e101]: An Nhiên
+      - paragraph [ref=e102]: Cầu bình an cho mọi người và gia đình
+    - list "Đạo tràng luân phiên":
+      - 'listitem "Hạng 1: Minh An, 400 xu, mô phỏng"':
+        - generic:
+          - generic: "1"
+          - generic: M
+          - strong: Minh An
+      - 'listitem "Hạng 2: Thiện Tâm, 300 xu, mô phỏng"':
+        - generic:
+          - generic: "2"
+          - generic: T
+          - strong: Thiện Tâm
+      - 'listitem "Hạng 3: Thanh Hoa, 200 xu, mô phỏng"':
+        - generic:
+          - generic: "3"
+          - generic: T
+          - strong: Thanh Hoa
+      - 'listitem "Hạng 4: Bình Tâm, 100 xu, mô phỏng"':
+        - generic:
+          - generic: "4"
+          - generic: B
+          - strong: Bình Tâm
+      - 'listitem "Chỗ thiền 5: An Nhiên 73, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: A
+          - strong: An Nhiên 73
+      - 'listitem "Chỗ thiền 6: Diệu Hương 74, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: D
+          - strong: Diệu Hương 74
+      - 'listitem "Chỗ thiền 7: Ngọc Lan 75, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: "N"
+          - strong: Ngọc Lan 75
+      - 'listitem "Chỗ thiền 8: Tâm Minh 76, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: T
+          - strong: Tâm Minh 76
+      - 'listitem "Chỗ thiền 9: Quang Huy 77, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: Q
+          - strong: Quang Huy 77
+      - 'listitem "Chỗ thiền 10: Hải Yến 78, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: H
+          - strong: Hải Yến 78
+      - 'listitem "Chỗ thiền 11: Bảo An 79, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: B
+          - strong: Bảo An 79
+      - 'listitem "Chỗ thiền 12: Lan Anh 80, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: L
+          - strong: Lan Anh 80
+      - 'listitem "Chỗ thiền 13: Đức Minh 81, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: Đ
+          - strong: Đức Minh 81
+      - 'listitem "Chỗ thiền 14: Thu Hà 82, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: T
+          - strong: Thu Hà 82
+      - 'listitem "Chỗ thiền 15: Hoàng Nam 83, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: H
+          - strong: Hoàng Nam 83
+      - 'listitem "Chỗ thiền 16: Mai Phương 84, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: M
+          - strong: Mai Phương 84
+      - 'listitem "Chỗ thiền 17: Khánh Linh 85, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: K
+          - strong: Khánh Linh 85
+      - 'listitem "Chỗ thiền 18: Tuệ An 86, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: T
+          - strong: Tuệ An 86
+      - 'listitem "Chỗ thiền 19: Minh An 87, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: M
+          - strong: Minh An 87
+      - 'listitem "Chỗ thiền 20: Thiện Tâm 88, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: T
+          - strong: Thiện Tâm 88
+      - 'listitem "Chỗ thiền 21: Thanh Hoa 89, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: T
+          - strong: Thanh Hoa 89
+      - 'listitem "Chỗ thiền 22: Bình Tâm 90, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: B
+          - strong: Bình Tâm 90
+      - 'listitem "Chỗ thiền 23: An Nhiên 91, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: A
+          - strong: An Nhiên 91
+      - 'listitem "Chỗ thiền 24: Diệu Hương 92, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: D
+          - strong: Diệu Hương 92
+      - 'listitem "Chỗ thiền 25: Ngọc Lan 93, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: "N"
+          - strong: Ngọc Lan 93
+      - 'listitem "Chỗ thiền 26: Tâm Minh 94, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: T
+          - strong: Tâm Minh 94
+      - 'listitem "Chỗ thiền 27: Quang Huy 95, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: Q
+          - strong: Quang Huy 95
+      - 'listitem "Chỗ thiền 28: Hải Yến 96, đang ngồi thiền, mô phỏng"':
+        - generic:
+          - generic: •
+          - generic: H
+          - strong: Hải Yến 96
+      - listitem "Chỗ thiền còn trống"
+      - listitem "Chỗ thiền còn trống"
+      - listitem "Chỗ thiền còn trống"
+      - listitem "Chỗ thiền còn trống"
+      - listitem "Chỗ thiền còn trống"
+      - listitem "Chỗ thiền còn trống"
+      - listitem "Chỗ thiền còn trống"
+      - listitem "Chỗ thiền còn trống"
+      - listitem "Chỗ thiền còn trống"
+      - listitem "Chỗ thiền còn trống"
+      - listitem "Chỗ thiền còn trống"
+      - listitem "Chỗ thiền còn trống"
+  - button "Bật tiếng" [ref=e103] [cursor=pointer]

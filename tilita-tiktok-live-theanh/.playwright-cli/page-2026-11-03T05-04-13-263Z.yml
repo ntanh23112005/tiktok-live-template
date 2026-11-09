@@ -1,0 +1,316 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "T tilita TIKTOK LIVE / THEANH" [ref=e3] [cursor=pointer]:
+      - /url: /admin
+      - generic [ref=e4]: T
+      - generic [ref=e5]:
+        - text: tilita
+        - generic [ref=e6]: TIKTOK LIVE / THEANH
+    - generic [ref=e7]: LOCAL · Đã kết nối tool
+  - generic [ref=e8]:
+    - navigation "Điều hướng" [ref=e9]:
+      - button "Vận hành" [ref=e10] [cursor=pointer]
+      - button "Luật tương tác" [ref=e11] [cursor=pointer]
+      - button "Thiết lập & chạy thử" [ref=e12] [cursor=pointer]
+      - paragraph [ref=e13]: Chạy trên máy của bạn.OBS phát hình và tiếng.Tool xử lý tương tác.
+    - main [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - paragraph [ref=e18]: PHÒNG ĐIỀU KHIỂN
+            - heading "Sẵn sàng cho buổi LIVE" [level=1] [ref=e19]
+            - paragraph [ref=e20]: Kết nối kênh, kiểm tra màn hình và quản lý từng lượt.
+          - generic [ref=e21]: Chưa kết nối TikTok
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - generic [ref=e24]:
+              - generic [ref=e25]:
+                - heading "Kết nối kênh" [level=2] [ref=e26]
+                - generic [ref=e27]: Chưa kết nối
+              - generic [ref=e28]:
+                - generic [ref=e29]:
+                  - text: Tài khoản TikTok
+                  - textbox "Tài khoản TikTok" [ref=e30]:
+                    - /placeholder: "@tenkenhcuaban"
+                - button "Kết nối" [ref=e31] [cursor=pointer]
+                - button "Ngắt" [ref=e32] [cursor=pointer]
+              - paragraph [ref=e33]: Chỉ kết nối khi kênh đang phát LIVE. Tool không tự bắt đầu phát sóng.
+            - generic [ref=e34]:
+              - generic [ref=e35]:
+                - heading "Màn hình phát" [level=2] [ref=e36]
+                - generic [ref=e37]: Đã mở · 1 màn hình
+              - generic [ref=e38]:
+                - text: URL cho OBS Browser Source
+                - generic [ref=e39]:
+                  - textbox "URL cho OBS Browser Source Sao chép" [ref=e40]: http://127.0.0.1:49260/overlay
+                  - button "Sao chép" [ref=e41] [cursor=pointer]
+              - generic [ref=e42]:
+                - link "Mở màn hình phát" [ref=e43] [cursor=pointer]:
+                  - /url: /overlay
+                - generic [ref=e44]: 1080 × 1920 · 30 FPS · Âm thanh đã sẵn sàng
+            - generic [ref=e45]:
+              - generic [ref=e46]:
+                - heading "Tâm an lạc V2" [level=2] [ref=e47]
+                - generic [ref=e48]: Không giới hạn người
+              - generic [ref=e49]:
+                - generic [ref=e50]:
+                  - checkbox "Hiện bảng nghi thức" [checked] [ref=e51]
+                  - text: Hiện bảng nghi thức
+                - generic [ref=e52]:
+                  - checkbox "Hiện bảng đóng góp" [checked] [ref=e53]
+                  - text: Hiện bảng đóng góp
+              - paragraph [ref=e54]: Tương tác bất kỳ → vào đạo tràng ngay · Top 4 quà ngồi hàng đầu · Các thành viên khác luân phiên.
+              - status [ref=e55]: Chưa nhận gói tim thật trong phiên này. Tim mô phỏng không tính vào đây.
+              - generic [ref=e56]:
+                - generic [ref=e57]: 1 xu Xin quẻ
+                - generic [ref=e58]: 3 xu Dâng hương
+                - generic [ref=e59]: 5 xu Hoa sen
+                - generic [ref=e60]: 10 xu Hoa đăng nguyện
+                - generic [ref=e61]: 30 xu Mâm lễ
+                - generic [ref=e62]: 100 xu Đại hồng chung
+                - generic [ref=e63]: 500+ xu Phật quang phổ chiếu
+            - generic [ref=e64]:
+              - generic [ref=e65]:
+                - heading "Lượt đang diễn" [level=2] [ref=e66]
+                - generic [ref=e67]: Đang chờ
+              - generic [ref=e68]: Chưa có lượt. Thử một quà trong mục Thiết lập & chạy thử.
+              - generic [ref=e69]:
+                - button "Tạm dừng lấy lượt" [ref=e70] [cursor=pointer]
+                - button "Dừng nhận lượt" [ref=e71] [cursor=pointer]
+                - button "Bỏ qua lượt" [disabled] [ref=e72]
+              - paragraph [ref=e73]: Tạm dừng vẫn nhận quà và giữ hàng chờ. Lượt đang diễn được chạy xong.
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - heading "Hàng chờ 0" [level=2] [ref=e76]
+                - button "Xóa hàng chờ" [ref=e77] [cursor=pointer]
+              - paragraph [ref=e79]: Hàng chờ đang trống.
+            - generic [ref=e80]:
+              - generic [ref=e81]:
+                - heading "Thống kê quà thật" [level=2] [ref=e82]
+                - generic [ref=e83]: Tích lũy trên máy
+              - generic [ref=e84]:
+                - generic [ref=e85]:
+                  - strong [ref=e86]: "0"
+                  - text: Quà đã nhận
+                - generic [ref=e87]:
+                  - strong [ref=e88]: "0"
+                  - text: Xu theo metadata
+              - paragraph [ref=e89]: 100 người đã vào đạo tràng · 28 đang hiện · Top 4 cố định · Nhóm 3/4 · MÔ PHỎNG
+              - generic [ref=e90]:
+                - generic [ref=e91]:
+                  - generic [ref=e92]: "1"
+                  - generic [ref=e93]: Minh An
+                  - generic [ref=e94]: 400 xu
+                - generic [ref=e95]:
+                  - generic [ref=e96]: "2"
+                  - generic [ref=e97]: Thiện Tâm
+                  - generic [ref=e98]: 300 xu
+                - generic [ref=e99]:
+                  - generic [ref=e100]: "3"
+                  - generic [ref=e101]: Thanh Hoa
+                  - generic [ref=e102]: 200 xu
+                - generic [ref=e103]:
+                  - generic [ref=e104]: "4"
+                  - generic [ref=e105]: Bình Tâm
+                  - generic [ref=e106]: 100 xu
+              - paragraph [ref=e107]: Quà mô phỏng không cộng vào đây. Xu không phải doanh thu tiền mặt.
+          - complementary [ref=e108]:
+            - generic [ref=e109]:
+              - heading "Xem trước" [level=2] [ref=e110]
+              - generic [ref=e111]: Tắt tiếng
+            - iframe [ref=e112]:
+              - main [ref=f1e3]:
+                - img "Chánh điện chùa gỗ" [ref=f1e4]
+                - generic [ref=f1e6]:
+                  - generic [ref=f1e7]: Tâm an lạc
+                  - generic [ref=f1e8]: Hữu duyên gặp gỡ
+                - complementary "Các mức xu và nghi thức" [ref=f1e9]:
+                  - generic [ref=f1e10]:
+                    - strong [ref=f1e11]: Tương tác · Vào ngồi thiền
+                    - generic [ref=f1e12]: Tim hoặc bình luận bất kỳ
+                    - generic [ref=f1e13]: Cùng ngồi thiền an lạc
+                  - generic [ref=f1e14]:
+                    - generic [ref=f1e22]:
+                      - strong [ref=f1e23]: 1 xu
+                      - generic [ref=f1e24]: Xin quẻ
+                    - generic [ref=f1e31]:
+                      - strong [ref=f1e32]: 3 xu
+                      - generic [ref=f1e33]: Dâng hương
+                    - generic [ref=f1e40]:
+                      - strong [ref=f1e41]: 5 xu
+                      - generic [ref=f1e42]: Hoa sen
+                    - generic [ref=f1e51]:
+                      - strong [ref=f1e52]: 10 xu
+                      - generic [ref=f1e53]: Hoa đăng nguyện
+                    - generic [ref=f1e62]:
+                      - strong [ref=f1e63]: 30 xu
+                      - generic [ref=f1e64]: Mâm lễ
+                    - generic [ref=f1e71]:
+                      - strong [ref=f1e72]: 100 xu
+                      - generic [ref=f1e73]: Đại hồng chung
+                    - generic [ref=f1e81]:
+                      - strong [ref=f1e82]: 500+ xu
+                      - generic [ref=f1e83]: Phật quang phổ chiếu
+                - complementary [ref=f1e84]:
+                  - heading "TOP MÔ PHỎNG" [level=2] [ref=f1e85]
+                  - generic [ref=f1e86]:
+                    - generic [ref=f1e87]:
+                      - generic [ref=f1e88]: 1. Minh An
+                      - generic [ref=f1e89]: 400 xu
+                    - generic [ref=f1e90]:
+                      - generic [ref=f1e91]: 2. Thiện Tâm
+                      - generic [ref=f1e92]: 300 xu
+                    - generic [ref=f1e93]:
+                      - generic [ref=f1e94]: 3. Thanh Hoa
+                      - generic [ref=f1e95]: 200 xu
+                    - generic [ref=f1e96]:
+                      - generic [ref=f1e97]: 4. Bình Tâm
+                      - generic [ref=f1e98]: 100 xu
+                - generic [ref=f1e99]: Đạo tràng 100 người · Nhóm 3/4
+                - list "Đạo tràng luân phiên":
+                  - 'listitem "Hạng 1: Minh An, 400 xu, mô phỏng"':
+                    - generic:
+                      - generic: "1"
+                      - generic: M
+                      - strong: Minh An
+                  - 'listitem "Hạng 2: Thiện Tâm, 300 xu, mô phỏng"':
+                    - generic:
+                      - generic: "2"
+                      - generic: T
+                      - strong: Thiện Tâm
+                  - 'listitem "Hạng 3: Thanh Hoa, 200 xu, mô phỏng"':
+                    - generic:
+                      - generic: "3"
+                      - generic: T
+                      - strong: Thanh Hoa
+                  - 'listitem "Hạng 4: Bình Tâm, 100 xu, mô phỏng"':
+                    - generic:
+                      - generic: "4"
+                      - generic: B
+                      - strong: Bình Tâm
+                  - 'listitem "Chỗ thiền 5: Khánh Linh 49, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: K
+                      - strong: Khánh Linh 49
+                  - 'listitem "Chỗ thiền 6: Tuệ An 50, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: T
+                      - strong: Tuệ An 50
+                  - 'listitem "Chỗ thiền 7: Minh An 51, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: M
+                      - strong: Minh An 51
+                  - 'listitem "Chỗ thiền 8: Thiện Tâm 52, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: T
+                      - strong: Thiện Tâm 52
+                  - 'listitem "Chỗ thiền 9: Thanh Hoa 53, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: T
+                      - strong: Thanh Hoa 53
+                  - 'listitem "Chỗ thiền 10: Bình Tâm 54, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: B
+                      - strong: Bình Tâm 54
+                  - 'listitem "Chỗ thiền 11: An Nhiên 55, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: A
+                      - strong: An Nhiên 55
+                  - 'listitem "Chỗ thiền 12: Diệu Hương 56, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: D
+                      - strong: Diệu Hương 56
+                  - 'listitem "Chỗ thiền 13: Ngọc Lan 57, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: "N"
+                      - strong: Ngọc Lan 57
+                  - 'listitem "Chỗ thiền 14: Tâm Minh 58, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: T
+                      - strong: Tâm Minh 58
+                  - 'listitem "Chỗ thiền 15: Quang Huy 59, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: Q
+                      - strong: Quang Huy 59
+                  - 'listitem "Chỗ thiền 16: Hải Yến 60, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: H
+                      - strong: Hải Yến 60
+                  - 'listitem "Chỗ thiền 17: Bảo An 61, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: B
+                      - strong: Bảo An 61
+                  - 'listitem "Chỗ thiền 18: Lan Anh 62, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: L
+                      - strong: Lan Anh 62
+                  - 'listitem "Chỗ thiền 19: Đức Minh 63, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: Đ
+                      - strong: Đức Minh 63
+                  - 'listitem "Chỗ thiền 20: Thu Hà 64, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: T
+                      - strong: Thu Hà 64
+                  - 'listitem "Chỗ thiền 21: Hoàng Nam 65, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: H
+                      - strong: Hoàng Nam 65
+                  - 'listitem "Chỗ thiền 22: Mai Phương 66, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: M
+                      - strong: Mai Phương 66
+                  - 'listitem "Chỗ thiền 23: Khánh Linh 67, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: K
+                      - strong: Khánh Linh 67
+                  - 'listitem "Chỗ thiền 24: Tuệ An 68, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: T
+                      - strong: Tuệ An 68
+                  - 'listitem "Chỗ thiền 25: Minh An 69, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: M
+                      - strong: Minh An 69
+                  - 'listitem "Chỗ thiền 26: Thiện Tâm 70, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: T
+                      - strong: Thiện Tâm 70
+                  - 'listitem "Chỗ thiền 27: Thanh Hoa 71, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: T
+                      - strong: Thanh Hoa 71
+                  - 'listitem "Chỗ thiền 28: Bình Tâm 72, đang ngồi thiền, mô phỏng"':
+                    - generic:
+                      - generic: •
+                      - generic: B
+                      - strong: Bình Tâm 72
+            - paragraph [ref=e113]: Preview không chạy hàng đợi. Thêm URL /overlay vào OBS hoặc mở màn hình phát để bắt đầu lấy lượt.
+            - group [ref=e114]:
+              - generic "Hướng dẫn LIVE lần đầu" [ref=e115] [cursor=pointer]
+  - contentinfo [ref=e116]:
+    - text: Tâm an lạc / 0.2.0
+    - generic [ref=e117]: Local TikTok LIVE tool · Không tự phát sóng

@@ -1,0 +1,7 @@
+{
+  "sceneTitle":"HANG MU · THEANH","sceneVersion":"mu-cave-v1","showGiftBoard":true,"showLeaderboard":true,
+  "voiceEnabled":true,"voiceVolume":0.85,"participation":{"likesEnabled":true,"likesRequired":10,"entryPolicy":"ten-likes-v1"},"username":"",
+  "volume":0.35,"musicVolume":0.06,"musicLoop":true,"musicFile":"music/glory-glory-man-united.mp3",
+  "queueLimit":200,"commentCooldownSec":30,"social":{"like":false,"follow":true,"share":true},
+  "rules":[{"id":"mu-visit","enabled":true,"type":"comment","match":"vào hang","action":"visit","priority":0},{"id":"mu-cheer","enabled":true,"type":"comment","match":"ggmu, cổ vũ","action":"cheer","priority":0},{"id":"mu-gift-tiers","enabled":true,"type":"gift","match":"*","action":"auto","priority":10}]
+}

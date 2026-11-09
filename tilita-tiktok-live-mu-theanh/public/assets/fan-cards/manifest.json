@@ -1,0 +1,999 @@
+{
+  "items": [
+    {
+      "id": "fan-001",
+      "file": "fan-001-energy.wav",
+      "duration": 5.66,
+      "voice": "tiendat",
+      "textVersion": "2a480c0dab3fbd64",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-002",
+      "file": "fan-002-energy.wav",
+      "duration": 4.679,
+      "voice": "tiendat",
+      "textVersion": "ddaa2296570afea8",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-003",
+      "file": "fan-003-energy.wav",
+      "duration": 3.904,
+      "voice": "tiendat",
+      "textVersion": "63efd2c6db702661",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-004",
+      "file": "fan-004-energy.wav",
+      "duration": 4.905,
+      "voice": "tiendat",
+      "textVersion": "805d15d1e4979ccf",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-005",
+      "file": "fan-005-energy.wav",
+      "duration": 4.66,
+      "voice": "tiendat",
+      "textVersion": "274312a6b30f7567",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-006",
+      "file": "fan-006-energy.wav",
+      "duration": 5.135,
+      "voice": "tiendat",
+      "textVersion": "3b0607d67c8b0223",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-007",
+      "file": "fan-007-energy.wav",
+      "duration": 4.681,
+      "voice": "tiendat",
+      "textVersion": "0d06317be4d6c655",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-008",
+      "file": "fan-008-energy.wav",
+      "duration": 4.753,
+      "voice": "tiendat",
+      "textVersion": "f7c96ef3b37253aa",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-009",
+      "file": "fan-009-energy.wav",
+      "duration": 5.132,
+      "voice": "tiendat",
+      "textVersion": "257ae322c2f8572a",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-010",
+      "file": "fan-010-energy.wav",
+      "duration": 4.754,
+      "voice": "tiendat",
+      "textVersion": "99fc087cd7aedf0c",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-011",
+      "file": "fan-011-energy.wav",
+      "duration": 4.754,
+      "voice": "tiendat",
+      "textVersion": "09f1b9d85d3155a5",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-012",
+      "file": "fan-012-energy.wav",
+      "duration": 5.507,
+      "voice": "tiendat",
+      "textVersion": "c21fc259a101e280",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-013",
+      "file": "fan-013-energy.wav",
+      "duration": 5.13,
+      "voice": "tiendat",
+      "textVersion": "40cadcbb176f262b",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-014",
+      "file": "fan-014-energy.wav",
+      "duration": 4.678,
+      "voice": "tiendat",
+      "textVersion": "a6f90bbe77719568",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-015",
+      "file": "fan-015-energy.wav",
+      "duration": 5.131,
+      "voice": "tiendat",
+      "textVersion": "b832a42484f75c26",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-016",
+      "file": "fan-016-energy.wav",
+      "duration": 5.206,
+      "voice": "tiendat",
+      "textVersion": "421c791645702ffa",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-017",
+      "file": "fan-017-energy.wav",
+      "duration": 5.734,
+      "voice": "tiendat",
+      "textVersion": "f5ce6b6b19f0e4f0",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-018",
+      "file": "fan-018-energy.wav",
+      "duration": 4.719,
+      "voice": "tiendat",
+      "textVersion": "cf6b7d025a9a1b35",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-019",
+      "file": "fan-019-energy.wav",
+      "duration": 5.809,
+      "voice": "tiendat",
+      "textVersion": "2fb310df4a121e7c",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-020",
+      "file": "fan-020-energy.wav",
+      "duration": 5.207,
+      "voice": "tiendat",
+      "textVersion": "957b5f9c2f76a9c8",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-021",
+      "file": "fan-021-energy.wav",
+      "duration": 4.981,
+      "voice": "tiendat",
+      "textVersion": "41c78af6e62bc944",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-022",
+      "file": "fan-022-energy.wav",
+      "duration": 4.53,
+      "voice": "tiendat",
+      "textVersion": "2a3f111f757530d7",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-023",
+      "file": "fan-023-energy.wav",
+      "duration": 5.133,
+      "voice": "tiendat",
+      "textVersion": "e28e4f4cc399a5c0",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-024",
+      "file": "fan-024-energy.wav",
+      "duration": 5.133,
+      "voice": "tiendat",
+      "textVersion": "4ff0cbd21ef0966b",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-025",
+      "file": "fan-025-energy.wav",
+      "duration": 5.357,
+      "voice": "tiendat",
+      "textVersion": "9a5c7cb91e2a2e1e",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-026",
+      "file": "fan-026-energy.wav",
+      "duration": 5.51,
+      "voice": "tiendat",
+      "textVersion": "045fc3d9fd28113d",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-027",
+      "file": "fan-027-energy.wav",
+      "duration": 6.264,
+      "voice": "tiendat",
+      "textVersion": "852466df7a017732",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-028",
+      "file": "fan-028-energy.wav",
+      "duration": 5.28,
+      "voice": "tiendat",
+      "textVersion": "75ae9d21cbc8aacb",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-029",
+      "file": "fan-029-energy.wav",
+      "duration": 4.301,
+      "voice": "tiendat",
+      "textVersion": "da25f17b7588298c",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-030",
+      "file": "fan-030-energy.wav",
+      "duration": 4.829,
+      "voice": "tiendat",
+      "textVersion": "dede87fb60490323",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-031",
+      "file": "fan-031-energy.wav",
+      "duration": 5.28,
+      "voice": "tiendat",
+      "textVersion": "f12277a7b84fe89c",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-032",
+      "file": "fan-032-energy.wav",
+      "duration": 5.585,
+      "voice": "tiendat",
+      "textVersion": "9306d1b0b112f285",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-033",
+      "file": "fan-033-energy.wav",
+      "duration": 4.83,
+      "voice": "tiendat",
+      "textVersion": "1883aa5800dfce1a",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-034",
+      "file": "fan-034-energy.wav",
+      "duration": 4.603,
+      "voice": "tiendat",
+      "textVersion": "89770553397c5525",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-035",
+      "file": "fan-035-energy.wav",
+      "duration": 5.207,
+      "voice": "tiendat",
+      "textVersion": "7dd29d30aa1cef79",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-036",
+      "file": "fan-036-energy.wav",
+      "duration": 5.717,
+      "voice": "tiendat",
+      "textVersion": "f44cbdedbedf9ac1",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-037",
+      "file": "fan-037-energy.wav",
+      "duration": 5.433,
+      "voice": "tiendat",
+      "textVersion": "7bd8878b2830813f",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-038",
+      "file": "fan-038-energy.wav",
+      "duration": 4.68,
+      "voice": "tiendat",
+      "textVersion": "752f072eaaa32a7b",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-039",
+      "file": "fan-039-energy.wav",
+      "duration": 4.905,
+      "voice": "tiendat",
+      "textVersion": "747b25a8503a9f7c",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-040",
+      "file": "fan-040-energy.wav",
+      "duration": 5.51,
+      "voice": "tiendat",
+      "textVersion": "da5381b938fd3d99",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-041",
+      "file": "fan-041-energy.wav",
+      "duration": 5.136,
+      "voice": "tiendat",
+      "textVersion": "2f58664253d74a73",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-042",
+      "file": "fan-042-energy.wav",
+      "duration": 5.056,
+      "voice": "tiendat",
+      "textVersion": "af70485a8fc9edc1",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-043",
+      "file": "fan-043-energy.wav",
+      "duration": 5.886,
+      "voice": "tiendat",
+      "textVersion": "c4ca5b14f1bfc70e",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-044",
+      "file": "fan-044-energy.wav",
+      "duration": 5.132,
+      "voice": "tiendat",
+      "textVersion": "4544ab13b44d1abd",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-045",
+      "file": "fan-045-energy.wav",
+      "duration": 5.811,
+      "voice": "tiendat",
+      "textVersion": "4a10ecb01c407836",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-046",
+      "file": "fan-046-energy.wav",
+      "duration": 5.131,
+      "voice": "tiendat",
+      "textVersion": "fb40de0b5ef97226",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-047",
+      "file": "fan-047-energy.wav",
+      "duration": 5.432,
+      "voice": "tiendat",
+      "textVersion": "9943d9b43d908415",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-048",
+      "file": "fan-048-energy.wav",
+      "duration": 5.66,
+      "voice": "tiendat",
+      "textVersion": "bf9acd0dc99544ca",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-049",
+      "file": "fan-049-energy.wav",
+      "duration": 5.207,
+      "voice": "tiendat",
+      "textVersion": "950d3f166058e903",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-050",
+      "file": "fan-050-energy.wav",
+      "duration": 5.813,
+      "voice": "tiendat",
+      "textVersion": "2e12689015c07ba0",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-051",
+      "file": "fan-051-energy.wav",
+      "duration": 5.283,
+      "voice": "tiendat",
+      "textVersion": "4bb7db349a2e1c9e",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-052",
+      "file": "fan-052-energy.wav",
+      "duration": 4.755,
+      "voice": "tiendat",
+      "textVersion": "88a2ababa762ec37",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-053",
+      "file": "fan-053-energy.wav",
+      "duration": 5.206,
+      "voice": "tiendat",
+      "textVersion": "24784dceb1580e3d",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-054",
+      "file": "fan-054-energy.wav",
+      "duration": 5.807,
+      "voice": "tiendat",
+      "textVersion": "f6dbec19bf5124a5",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-055",
+      "file": "fan-055-energy.wav",
+      "duration": 5.283,
+      "voice": "tiendat",
+      "textVersion": "aa4508de2b538e53",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-056",
+      "file": "fan-056-energy.wav",
+      "duration": 4.827,
+      "voice": "tiendat",
+      "textVersion": "e065e7d6dfe6d713",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-057",
+      "file": "fan-057-energy.wav",
+      "duration": 5.188,
+      "voice": "tiendat",
+      "textVersion": "6f8b0a9a759ea548",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-058",
+      "file": "fan-058-energy.wav",
+      "duration": 4.982,
+      "voice": "tiendat",
+      "textVersion": "0ccc70d76a2b8a2b",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-059",
+      "file": "fan-059-energy.wav",
+      "duration": 5.132,
+      "voice": "tiendat",
+      "textVersion": "dae5be1d8fe48c62",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-060",
+      "file": "fan-060-energy.wav",
+      "duration": 5.188,
+      "voice": "tiendat",
+      "textVersion": "926069bd99792484",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-061",
+      "file": "fan-061-energy.wav",
+      "duration": 5.207,
+      "voice": "tiendat",
+      "textVersion": "ccc3e4a137a62d72",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-062",
+      "file": "fan-062-energy.wav",
+      "duration": 5.434,
+      "voice": "tiendat",
+      "textVersion": "1fb0bd45b6af51b0",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-063",
+      "file": "fan-063-energy.wav",
+      "duration": 5.584,
+      "voice": "tiendat",
+      "textVersion": "a5ee204372a15f86",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-064",
+      "file": "fan-064-energy.wav",
+      "duration": 5.49,
+      "voice": "tiendat",
+      "textVersion": "7ad944bd6d50c588",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-065",
+      "file": "fan-065-energy.wav",
+      "duration": 4.979,
+      "voice": "tiendat",
+      "textVersion": "73acca41690947f9",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-066",
+      "file": "fan-066-energy.wav",
+      "duration": 5.056,
+      "voice": "tiendat",
+      "textVersion": "9ba63413fc2cf699",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-067",
+      "file": "fan-067-energy.wav",
+      "duration": 5.509,
+      "voice": "tiendat",
+      "textVersion": "3a1abb25da691154",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-068",
+      "file": "fan-068-energy.wav",
+      "duration": 5.056,
+      "voice": "tiendat",
+      "textVersion": "a050c5847a5fd6ec",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-069",
+      "file": "fan-069-energy.wav",
+      "duration": 5.056,
+      "voice": "tiendat",
+      "textVersion": "4c4551473cbf56fe",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-070",
+      "file": "fan-070-energy.wav",
+      "duration": 5.735,
+      "voice": "tiendat",
+      "textVersion": "f3fb10accc092a7c",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-071",
+      "file": "fan-071-energy.wav",
+      "duration": 4.453,
+      "voice": "tiendat",
+      "textVersion": "4e765f6ddc037c5c",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-072",
+      "file": "fan-072-energy.wav",
+      "duration": 5.205,
+      "voice": "tiendat",
+      "textVersion": "7b2178ae10d8d535",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-073",
+      "file": "fan-073-energy.wav",
+      "duration": 5.736,
+      "voice": "tiendat",
+      "textVersion": "8a5f5baf2daa5c25",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-074",
+      "file": "fan-074-energy.wav",
+      "duration": 4.755,
+      "voice": "tiendat",
+      "textVersion": "0d6b9faae215e9e5",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-075",
+      "file": "fan-075-energy.wav",
+      "duration": 5.264,
+      "voice": "tiendat",
+      "textVersion": "8250b311d5277829",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-076",
+      "file": "fan-076-energy.wav",
+      "duration": 5.51,
+      "voice": "tiendat",
+      "textVersion": "cc60202a354a05cf",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-077",
+      "file": "fan-077-energy.wav",
+      "duration": 6.037,
+      "voice": "tiendat",
+      "textVersion": "c6d40f0d665a9909",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-078",
+      "file": "fan-078-energy.wav",
+      "duration": 6.339,
+      "voice": "tiendat",
+      "textVersion": "586a4dfcd9748f03",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-079",
+      "file": "fan-079-energy.wav",
+      "duration": 5.963,
+      "voice": "tiendat",
+      "textVersion": "9c6c3214632b0b95",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-080",
+      "file": "fan-080-energy.wav",
+      "duration": 5.357,
+      "voice": "tiendat",
+      "textVersion": "eaf248d64c5ba03a",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-081",
+      "file": "fan-081-energy.wav",
+      "duration": 5.66,
+      "voice": "tiendat",
+      "textVersion": "4c5bd0aa5a153ab5",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-082",
+      "file": "fan-082-energy.wav",
+      "duration": 5.566,
+      "voice": "tiendat",
+      "textVersion": "744ea11d331db0d9",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-083",
+      "file": "fan-083-energy.wav",
+      "duration": 4.66,
+      "voice": "tiendat",
+      "textVersion": "0f72078795b4bceb",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-084",
+      "file": "fan-084-energy.wav",
+      "duration": 5.811,
+      "voice": "tiendat",
+      "textVersion": "5274ec7207247abf",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-085",
+      "file": "fan-085-energy.wav",
+      "duration": 4.982,
+      "voice": "tiendat",
+      "textVersion": "b88c90bb1529eb07",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-086",
+      "file": "fan-086-energy.wav",
+      "duration": 4.755,
+      "voice": "tiendat",
+      "textVersion": "da67262888b763c2",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-087",
+      "file": "fan-087-energy.wav",
+      "duration": 6.335,
+      "voice": "tiendat",
+      "textVersion": "e721087522e25a04",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-088",
+      "file": "fan-088-energy.wav",
+      "duration": 5.887,
+      "voice": "tiendat",
+      "textVersion": "9aba1d9a13c16757",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-089",
+      "file": "fan-089-energy.wav",
+      "duration": 5.886,
+      "voice": "tiendat",
+      "textVersion": "96de17b7987b6fc8",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-090",
+      "file": "fan-090-energy.wav",
+      "duration": 5.584,
+      "voice": "tiendat",
+      "textVersion": "04513cda886eae4f",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-091",
+      "file": "fan-091-energy.wav",
+      "duration": 5.962,
+      "voice": "tiendat",
+      "textVersion": "a04884bcd2aa3cc4",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-092",
+      "file": "fan-092-energy.wav",
+      "duration": 6.037,
+      "voice": "tiendat",
+      "textVersion": "dd91ec27e81353cb",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-093",
+      "file": "fan-093-energy.wav",
+      "duration": 5.735,
+      "voice": "tiendat",
+      "textVersion": "f45d09450815fa16",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-094",
+      "file": "fan-094-energy.wav",
+      "duration": 5.734,
+      "voice": "tiendat",
+      "textVersion": "0161066377226a89",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-095",
+      "file": "fan-095-energy.wav",
+      "duration": 5.508,
+      "voice": "tiendat",
+      "textVersion": "1049cf8b7f5c5857",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-096",
+      "file": "fan-096-energy.wav",
+      "duration": 6.115,
+      "voice": "tiendat",
+      "textVersion": "4b7d2b28f9d95b37",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-097",
+      "file": "fan-097-energy.wav",
+      "duration": 6.416,
+      "voice": "tiendat",
+      "textVersion": "e50b224e3445d168",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-098",
+      "file": "fan-098-energy.wav",
+      "duration": 5.49,
+      "voice": "tiendat",
+      "textVersion": "c21c2a215e87755e",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    },
+    {
+      "id": "fan-099",
+      "file": "fan-099-energy.wav",
+      "duration": 5.811,
+      "voice": "tiendat",
+      "textVersion": "82d89d5ed029ea9c",
+      "textNormalized": true,
+      "delivery": "energetic-v2",
+      "loudnessLUFS": -14
+    }
+  ],
+  "engine": "ZeroTTS",
+  "voice": "tiendat",
+  "speed": 1.06,
+  "delivery": "energetic-v2",
+  "loudnessLUFS": -14
+}

@@ -1,0 +1,77 @@
+/* Each stage uses the same 1080 x 1920 coordinates as the LIVE overlay. */
+#effectLayer{z-index:26;isolation:isolate}
+#particles{z-index:27}
+.meme-stage{position:absolute;left:265px;top:760px;width:650px;height:760px;overflow:hidden;border:3px solid #dfa750;border-radius:32px;background:#1c0709;box-shadow:0 18px 75px #000c,0 0 60px #d02a1855;transform-origin:center;perspective:1200px;contain:layout paint}
+.meme-stage[data-size=medium]{left:100px;top:430px;width:880px;height:1180px;border-radius:35px}
+.meme-stage[data-size=full]{inset:0;width:1080px;height:1920px;border:0;border-radius:0}
+.meme-backdrop,.meme-rays{position:absolute;inset:0;pointer-events:none}
+.meme-backdrop{background:radial-gradient(ellipse at 50% 57%,#9b300a99,transparent 65%),linear-gradient(#19080bd9,#350a08dc),url('/assets/mu-cave-v1/background.png') center 62%/cover}
+.meme-rays{opacity:.34;background:repeating-conic-gradient(from 10deg at 50% 53%,transparent 0deg 13deg,#ffbe692b 13deg 15deg,transparent 15deg 27deg);mix-blend-mode:screen}
+.meme-cutout{position:absolute;aspect-ratio:1;background-image:url('/assets/mu-meme-v1.3/cast.png');background-size:300% 400%;background-repeat:no-repeat;filter:drop-shadow(0 12px 10px #0009);pointer-events:none}
+.meme-hero{width:500px;height:500px;left:50%;bottom:130px;z-index:4;transform-origin:50% 86%;will-change:transform}
+.meme-face{width:470px;height:470px;left:50%;bottom:165px;z-index:8;filter:drop-shadow(0 0 20px #ffbe3388);transform-origin:center 70%}
+.meme-heading{position:absolute;top:22px;left:30px;right:30px;z-index:12;text-align:center;pointer-events:none}
+.meme-heading small{display:block;font-weight:800;font-size:20px;letter-spacing:4px;color:#f0ca85;text-shadow:0 3px 8px #000;margin-bottom:8px}
+.meme-heading strong{display:block;font:1000 64px/.98 Arial,sans-serif;color:#fff5d7;letter-spacing:-2px;text-wrap:balance;text-shadow:3px 3px 0 #a4170e,-3px -3px 0 #3b0809,0 6px 0 #650c07,0 10px 24px #000;overflow-wrap:anywhere}
+.meme-caption{position:absolute;left:24px;right:24px;bottom:112px;z-index:12;padding:10px 15px;background:#140608ed;border:2px solid #d99240;border-radius:12px;color:#ffdc8f;text-align:center;font-size:27px;font-weight:900;line-height:1.13;text-wrap:balance;text-shadow:0 2px #000}
+.meme-recipient{position:absolute;bottom:18px;left:24px;right:24px;z-index:14;min-height:78px;display:flex;justify-content:center;align-items:center;gap:14px;padding:9px 14px;background:linear-gradient(110deg,#73110ef0,#210808f7);border:2px solid #e4b96c;border-radius:18px;box-shadow:0 8px 20px #000a}
+.meme-recipient>img,.meme-initial{width:54px;height:54px;object-fit:cover;border:2px solid #ffdf9d;border-radius:50%;flex-shrink:0}
+.meme-initial{display:grid;place-items:center;font-size:30px;font-weight:900;background:#961a15}
+.meme-recipient>div{min-width:0;max-width:calc(100% - 70px);display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:2px 15px}
+.meme-recipient small{grid-column:1/-1;color:#e9bc78;font-size:13px;letter-spacing:2px;font-weight:800}
+.meme-recipient strong{font-size:31px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#fff4d7;line-height:1.1}
+.meme-recipient b{font-size:25px;color:#ffda75;white-space:nowrap}
+.meme-doors{position:absolute;left:60px;right:60px;top:155px;height:445px;overflow:hidden;perspective:1200px;z-index:6;border:7px solid #9e5b26;border-radius:40px 40px 7px 7px;box-shadow:0 0 25px #000b;pointer-events:none}
+.meme-door{position:absolute;top:0;bottom:0;width:50%;display:grid;place-items:center;background:repeating-linear-gradient(90deg,#260908 0 43px,#7d3516 44px 49px,#44140b 50px 85px);border:5px solid #c58b3c;box-shadow:inset 0 0 60px #000a;will-change:transform}
+.meme-door.left{left:0;transform-origin:left}.meme-door.right{right:0;transform-origin:right}
+.meme-door span{font-size:32px;font-weight:900;text-align:center;padding:10px;color:#eac681;text-shadow:0 3px 2px #000}
+.meme-ball{position:absolute;width:110px;height:110px;background-position:0 50%;z-index:9;filter:drop-shadow(0 4px 12px #ffae44)}
+.meme-vortex{position:absolute;left:50%;top:470px;width:580px;height:130px;z-index:3;transform-origin:center}
+.meme-vortex i{position:absolute;inset:0;border:12px solid #ffb83b;border-left-color:transparent;border-right-color:#fff3ac;border-radius:50%;box-shadow:0 0 20px #ff471c}
+.meme-vortex i:nth-child(2){inset:-50px 20px 45px;opacity:.7;rotate:13deg}.meme-vortex i:nth-child(3){inset:-100px 60px 90px;opacity:.45;rotate:-11deg}
+.meme-shock{position:absolute;left:50%;top:63%;width:90%;aspect-ratio:1;border:35px solid #ffcc72;border-radius:50%;z-index:10;box-shadow:0 0 70px #ff772c,inset 0 0 70px #ffbd71;pointer-events:none}
+.meme-skid{position:absolute;bottom:300px;left:60px;right:60px;height:100px;border:20px dashed #eec68833;border-radius:50%;transform:rotate(-10deg)}
+.meme-flag{position:absolute;top:28%;width:220px;height:310px;z-index:3;display:grid;place-items:center;background:linear-gradient(90deg,#590909,#e02d24,#8c110e,#c3221a);border:8px solid #d6aa51;clip-path:polygon(0 0,100% 0,100% 89%,50% 100%,0 89%);transform-origin:50% 0;filter:drop-shadow(0 8px 8px #000)}
+.meme-flag.left{left:10px}.meme-flag.right{right:10px}.meme-flag img{width:80%;height:auto;max-height:230px;object-fit:contain}
+.meme-clock{position:absolute;top:340px;left:120px;right:120px;z-index:8;border:5px solid #d8c274;border-radius:20px;background:#031106;padding:18px 5px;color:#a1ff93;text-align:center;font:900 83px/1.1 Consolas,monospace;box-shadow:0 0 45px #ffe18444}
+.meme-goal{position:absolute;top:590px;left:210px;width:650px;height:350px;z-index:2;border:13px solid #fff2d7;background:repeating-linear-gradient(0deg,transparent 0 38px,#fff6 38px 41px),repeating-linear-gradient(90deg,transparent 0 38px,#fff6 38px 41px);box-shadow:0 0 35px #fff8;transform:perspective(800px) rotateX(-13deg)}
+.meme-striker{left:50px;top:970px;width:300px;height:300px;z-index:4;transform-origin:50% 90%}
+.meme-devil{position:absolute;top:340px;left:50%;width:1000px;height:1220px;object-fit:contain;z-index:2;filter:drop-shadow(0 0 65px #ff561899);transform-origin:center bottom}
+.meme-trophy{position:absolute;left:50%;bottom:245px;width:290px;height:290px;background-position:100% 50%;z-index:9;filter:drop-shadow(0 0 40px #ffd979)}
+.meme-spotlight{position:absolute;top:-5%;width:45%;height:110%;background:linear-gradient(#ffe4a411,transparent 65%);clip-path:polygon(40% 0,58% 0,100% 100%,0 100%);z-index:1;transform-origin:center top;animation:meme-light 2.2s ease-in-out infinite alternate}
+.meme-spotlight.left{left:-10%;rotate:-15deg}.meme-spotlight.right{right:-10%;rotate:15deg;animation-delay:-1.1s}
+.meme-crowd{position:absolute;bottom:150px;left:60px;right:60px;display:flex;justify-content:center;z-index:6}
+.meme-crowd .meme-cutout{position:relative;width:150px;height:150px;flex-shrink:0;margin:0 -39px;animation:meme-fan .44s ease-in-out infinite alternate;animation-delay:calc(var(--i) * -67ms)}
+.meme-stage[data-size=medium] .meme-heading{top:45px;left:40px;right:40px}
+.meme-stage[data-size=medium] .meme-heading strong{font-size:96px}
+.meme-stage[data-size=medium] .meme-hero{width:720px;height:720px;bottom:225px}
+.meme-stage[data-size=medium] .meme-face{width:700px;height:700px;bottom:240px}
+.meme-stage[data-size=medium] .meme-caption{bottom:155px;font-size:34px;padding:15px 20px}
+.meme-stage[data-size=medium] .meme-recipient{bottom:28px;min-height:100px;left:40px;right:40px}
+.meme-stage[data-size=medium] .meme-recipient strong{font-size:39px}
+.meme-stage[data-size=full] .meme-heading{top:155px;left:90px;right:110px}
+.meme-stage[data-size=full] .meme-heading strong{font-size:120px}
+.meme-stage[data-size=full] .meme-heading small{font-size:26px;letter-spacing:6px}
+.meme-stage[data-size=full] .meme-hero{width:850px;height:850px;bottom:425px}
+.meme-stage[data-size=full] .meme-face{width:830px;height:830px;bottom:485px}
+.meme-stage[data-size=full] .meme-caption{bottom:330px;left:90px;right:110px;font-size:44px;padding:18px 25px}
+.meme-stage[data-size=full] .meme-recipient{bottom:165px;left:90px;right:110px;min-height:130px;padding:17px 22px}
+.meme-stage[data-size=full] .meme-recipient strong{font-size:51px}.meme-stage[data-size=full] .meme-recipient b{font-size:37px}
+.meme-stage[data-size=full] .meme-recipient small{font-size:18px}
+.meme-stage[data-size=full] .meme-recipient>img,.meme-stage[data-size=full] .meme-initial{width:82px;height:82px}
+.meme-stage[data-size=full] .meme-crowd{bottom:420px}
+#effectLayer[data-action=fergie] .meme-hero{bottom:410px;width:650px;height:650px;left:45%}
+#effectLayer[data-action=fergie] .meme-face{bottom:490px}
+#effectLayer[data-action=ggmu] .meme-heading strong{font-size:110px}
+#effectLayer[data-action=ggmu] .meme-hero{bottom:500px}
+#effectLayer[data-action=ggmu] .meme-crowd{bottom:420px}
+body[data-meme-size] #interactionBubbles,body[data-meme-size] #acknowledgement{visibility:hidden}
+body[data-meme-size=medium] #giftBoard,body[data-meme-size=medium] #ranking{opacity:.15}
+body[data-meme-size=full] :is(.stage-header,.session-hud,.club-crest,#giftBoard,#ranking,.principal,.role-title,#hall,#hallRoster,.stage-footer){visibility:hidden}
+/* Reading remains audible and visible until its voice and then applause have finished. */
+#fanCard{left:290px;top:790px;width:650px;padding:38px 40px;min-height:450px;transform-origin:50% 80%;animation:meme-card-entry .5s cubic-bezier(.16,.8,.3,1.1) both;box-shadow:0 18px 75px #000d,0 0 45px #f89b2855}
+#fanCard h2{font-size:48px}#cardMessage{font-size:35px;line-height:1.35}#cardRecipient{font-size:29px}
+@keyframes meme-card-entry{0%{opacity:0;transform:translateY(-120px) rotate(-9deg) scale(.45)}65%{opacity:1;transform:translateY(12px) rotate(2deg) scale(1.04)}100%{opacity:1;transform:none}}
+@keyframes meme-fan{from{transform:translateY(0) rotate(-4deg)}to{transform:translateY(-48px) rotate(4deg)}}
+@keyframes meme-light{from{transform:rotate(-18deg)}to{transform:rotate(18deg)}}
+@media(prefers-reduced-motion:reduce){.meme-spotlight,.meme-crowd .meme-cutout,#fanCard{animation:none}}

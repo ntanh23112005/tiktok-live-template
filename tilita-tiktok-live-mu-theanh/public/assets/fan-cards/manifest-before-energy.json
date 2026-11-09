@@ -1,0 +1,799 @@
+{
+  "items": [
+    {
+      "id": "fan-001",
+      "file": "fan-001.wav",
+      "duration": 5.36,
+      "voice": "tiendat",
+      "textVersion": "3c3697cc2755206e",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-002",
+      "file": "fan-002.wav",
+      "duration": 4.96,
+      "voice": "tiendat",
+      "textVersion": "2b74a08af64889b4",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-003",
+      "file": "fan-003.wav",
+      "duration": 4.88,
+      "voice": "tiendat",
+      "textVersion": "082e8511d8913025",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-004",
+      "file": "fan-004.wav",
+      "duration": 5.44,
+      "voice": "tiendat",
+      "textVersion": "c13280a118a6a400",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-005",
+      "file": "fan-005.wav",
+      "duration": 5.2,
+      "voice": "tiendat",
+      "textVersion": "8ee338387e2f9d8d",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-006",
+      "file": "fan-006.wav",
+      "duration": 5.28,
+      "voice": "tiendat",
+      "textVersion": "c694da1f4013cd88",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-007",
+      "file": "fan-007.wav",
+      "duration": 5.04,
+      "voice": "tiendat",
+      "textVersion": "60147a09f7af255b",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-008",
+      "file": "fan-008.wav",
+      "duration": 5.44,
+      "voice": "tiendat",
+      "textVersion": "1806511ab8116138",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-009",
+      "file": "fan-009.wav",
+      "duration": 5.76,
+      "voice": "tiendat",
+      "textVersion": "525f6c1c9b72441d",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-010",
+      "file": "fan-010.wav",
+      "duration": 5.52,
+      "voice": "tiendat",
+      "textVersion": "1198e900ba5bda64",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-011",
+      "file": "fan-011.wav",
+      "duration": 4.24,
+      "voice": "tiendat",
+      "textVersion": "471b5ac09cb1c98b",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-012",
+      "file": "fan-012.wav",
+      "duration": 6.72,
+      "voice": "tiendat",
+      "textVersion": "7de0dcdde702f5f4",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-013",
+      "file": "fan-013.wav",
+      "duration": 6.24,
+      "voice": "tiendat",
+      "textVersion": "fed0475c8e237c8b",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-014",
+      "file": "fan-014.wav",
+      "duration": 5.28,
+      "voice": "tiendat",
+      "textVersion": "1ffa2f861f32ef0d",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-015",
+      "file": "fan-015.wav",
+      "duration": 6.4,
+      "voice": "tiendat",
+      "textVersion": "86ed33aa1ab70386",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-016",
+      "file": "fan-016.wav",
+      "duration": 5.6,
+      "voice": "tiendat",
+      "textVersion": "72fd9e7301bcb212",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-017",
+      "file": "fan-017.wav",
+      "duration": 5.2,
+      "voice": "tiendat",
+      "textVersion": "211a239bba759c38",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-018",
+      "file": "fan-018.wav",
+      "duration": 5.2,
+      "voice": "tiendat",
+      "textVersion": "32671048e3aa8f90",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-019",
+      "file": "fan-019.wav",
+      "duration": 5.04,
+      "voice": "tiendat",
+      "textVersion": "90dc5bdc083fb6c1",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-020",
+      "file": "fan-020.wav",
+      "duration": 5.68,
+      "voice": "tiendat",
+      "textVersion": "b75120395e224105",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-021",
+      "file": "fan-021.wav",
+      "duration": 6.32,
+      "voice": "tiendat",
+      "textVersion": "0aa8e4fd89afb251",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-022",
+      "file": "fan-022.wav",
+      "duration": 5.6,
+      "voice": "tiendat",
+      "textVersion": "ca3a504d023f351b",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-023",
+      "file": "fan-023.wav",
+      "duration": 4.88,
+      "voice": "tiendat",
+      "textVersion": "e67b14186c593bd3",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-024",
+      "file": "fan-024.wav",
+      "duration": 6.08,
+      "voice": "tiendat",
+      "textVersion": "2d14924653f8bce5",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-025",
+      "file": "fan-025.wav",
+      "duration": 6.72,
+      "voice": "tiendat",
+      "textVersion": "5de9d394a3fac465",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-026",
+      "file": "fan-026.wav",
+      "duration": 6.24,
+      "voice": "tiendat",
+      "textVersion": "044cd3cc75c19ffa",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-027",
+      "file": "fan-027.wav",
+      "duration": 5.6,
+      "voice": "tiendat",
+      "textVersion": "fe71daba423c03df",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-028",
+      "file": "fan-028.wav",
+      "duration": 6.0,
+      "voice": "tiendat",
+      "textVersion": "ccf231d7f3bd5674",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-029",
+      "file": "fan-029.wav",
+      "duration": 6.0,
+      "voice": "tiendat",
+      "textVersion": "b4c46ca9dba019f2",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-030",
+      "file": "fan-030.wav",
+      "duration": 5.52,
+      "voice": "tiendat",
+      "textVersion": "c25bae6558d3d97e",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-031",
+      "file": "fan-031.wav",
+      "duration": 4.72,
+      "voice": "tiendat",
+      "textVersion": "91ef27e212e6cd5d",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-032",
+      "file": "fan-032.wav",
+      "duration": 6.08,
+      "voice": "tiendat",
+      "textVersion": "042d9bbead0134c1",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-033",
+      "file": "fan-033.wav",
+      "duration": 4.88,
+      "voice": "tiendat",
+      "textVersion": "62a1dd4e8a6711c3",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-034",
+      "file": "fan-034.wav",
+      "duration": 6.72,
+      "voice": "tiendat",
+      "textVersion": "56165ae9c0339576",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-035",
+      "file": "fan-035.wav",
+      "duration": 5.92,
+      "voice": "tiendat",
+      "textVersion": "58716980a2dd89ef",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-036",
+      "file": "fan-036.wav",
+      "duration": 5.6,
+      "voice": "tiendat",
+      "textVersion": "5a7249312abadfa9",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-037",
+      "file": "fan-037.wav",
+      "duration": 5.2,
+      "voice": "tiendat",
+      "textVersion": "350eff9f67beea6c",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-038",
+      "file": "fan-038.wav",
+      "duration": 6.08,
+      "voice": "tiendat",
+      "textVersion": "db2045febac7a73a",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-039",
+      "file": "fan-039.wav",
+      "duration": 5.6,
+      "voice": "tiendat",
+      "textVersion": "0b0d19c739ac34f4",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-040",
+      "file": "fan-040.wav",
+      "duration": 6.16,
+      "voice": "tiendat",
+      "textVersion": "4af5b3b4a1415ab2",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-041",
+      "file": "fan-041.wav",
+      "duration": 4.88,
+      "voice": "tiendat",
+      "textVersion": "442358906649b7bb",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-042",
+      "file": "fan-042.wav",
+      "duration": 5.76,
+      "voice": "tiendat",
+      "textVersion": "30a0b1d26692d775",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-043",
+      "file": "fan-043.wav",
+      "duration": 6.4,
+      "voice": "tiendat",
+      "textVersion": "662fd0ad04381453",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-044",
+      "file": "fan-044.wav",
+      "duration": 5.36,
+      "voice": "tiendat",
+      "textVersion": "abf485da7b838129",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-045",
+      "file": "fan-045.wav",
+      "duration": 5.04,
+      "voice": "tiendat",
+      "textVersion": "840a2226348d6902",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-046",
+      "file": "fan-046.wav",
+      "duration": 5.6,
+      "voice": "tiendat",
+      "textVersion": "f6305793edc67e62",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-047",
+      "file": "fan-047.wav",
+      "duration": 5.92,
+      "voice": "tiendat",
+      "textVersion": "36448d51b40feb9c",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-048",
+      "file": "fan-048.wav",
+      "duration": 6.96,
+      "voice": "tiendat",
+      "textVersion": "b0af04b65b4261cb",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-049",
+      "file": "fan-049.wav",
+      "duration": 5.44,
+      "voice": "tiendat",
+      "textVersion": "0af72c45ee887cad",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-050",
+      "file": "fan-050.wav",
+      "duration": 5.68,
+      "voice": "tiendat",
+      "textVersion": "843857bf20d27a6e",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-051",
+      "file": "fan-051.wav",
+      "duration": 6.96,
+      "voice": "tiendat",
+      "textVersion": "581d0a465802490d",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-052",
+      "file": "fan-052.wav",
+      "duration": 6.56,
+      "voice": "tiendat",
+      "textVersion": "51e6361f857f3b9a",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-053",
+      "file": "fan-053.wav",
+      "duration": 5.68,
+      "voice": "tiendat",
+      "textVersion": "e1a005cf710933bc",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-054",
+      "file": "fan-054.wav",
+      "duration": 6.24,
+      "voice": "tiendat",
+      "textVersion": "58dd443e9bf67788",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-055",
+      "file": "fan-055.wav",
+      "duration": 5.36,
+      "voice": "tiendat",
+      "textVersion": "5ac0a8c0f2a6bab5",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-056",
+      "file": "fan-056.wav",
+      "duration": 6.0,
+      "voice": "tiendat",
+      "textVersion": "391a40b162fbbef5",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-057",
+      "file": "fan-057.wav",
+      "duration": 5.68,
+      "voice": "tiendat",
+      "textVersion": "06bb46cb881c9213",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-058",
+      "file": "fan-058.wav",
+      "duration": 6.0,
+      "voice": "tiendat",
+      "textVersion": "55759430a8fd4af0",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-059",
+      "file": "fan-059.wav",
+      "duration": 5.84,
+      "voice": "tiendat",
+      "textVersion": "33a957675a2b94e1",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-060",
+      "file": "fan-060.wav",
+      "duration": 6.16,
+      "voice": "tiendat",
+      "textVersion": "74d421e329eee624",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-061",
+      "file": "fan-061.wav",
+      "duration": 5.44,
+      "voice": "tiendat",
+      "textVersion": "23faeaa17e1587a5",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-062",
+      "file": "fan-062.wav",
+      "duration": 5.36,
+      "voice": "tiendat",
+      "textVersion": "a470c7f6803afd77",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-063",
+      "file": "fan-063.wav",
+      "duration": 6.48,
+      "voice": "tiendat",
+      "textVersion": "113173be786c1e59",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-064",
+      "file": "fan-064.wav",
+      "duration": 5.36,
+      "voice": "tiendat",
+      "textVersion": "fe971d36e8752ec8",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-065",
+      "file": "fan-065.wav",
+      "duration": 5.44,
+      "voice": "tiendat",
+      "textVersion": "a0a7a2e4bad0cc4c",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-066",
+      "file": "fan-066.wav",
+      "duration": 6.16,
+      "voice": "tiendat",
+      "textVersion": "5cd63a86fbfb9df1",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-067",
+      "file": "fan-067.wav",
+      "duration": 6.0,
+      "voice": "tiendat",
+      "textVersion": "bebd31af869aac1a",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-068",
+      "file": "fan-068.wav",
+      "duration": 5.84,
+      "voice": "tiendat",
+      "textVersion": "c335d58584bba952",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-069",
+      "file": "fan-069.wav",
+      "duration": 5.68,
+      "voice": "tiendat",
+      "textVersion": "1fa8a299dda2a3d1",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-070",
+      "file": "fan-070.wav",
+      "duration": 6.32,
+      "voice": "tiendat",
+      "textVersion": "a3caa7295f58cc6e",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-071",
+      "file": "fan-071.wav",
+      "duration": 5.28,
+      "voice": "tiendat",
+      "textVersion": "5a61d54742c5cd94",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-072",
+      "file": "fan-072.wav",
+      "duration": 6.56,
+      "voice": "tiendat",
+      "textVersion": "4c52f632289ece70",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-073",
+      "file": "fan-073.wav",
+      "duration": 6.88,
+      "voice": "tiendat",
+      "textVersion": "a3d7ac16abfcc049",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-074",
+      "file": "fan-074.wav",
+      "duration": 5.92,
+      "voice": "tiendat",
+      "textVersion": "2b9154552eccadbf",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-075",
+      "file": "fan-075.wav",
+      "duration": 4.64,
+      "voice": "tiendat",
+      "textVersion": "1c387804611ac23b",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-076",
+      "file": "fan-076.wav",
+      "duration": 5.76,
+      "voice": "tiendat",
+      "textVersion": "6d7501ea70ef2bd2",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-077",
+      "file": "fan-077.wav",
+      "duration": 6.4,
+      "voice": "tiendat",
+      "textVersion": "e34c7fcef7e324ae",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-078",
+      "file": "fan-078.wav",
+      "duration": 6.08,
+      "voice": "tiendat",
+      "textVersion": "b5326f59e3cc2f79",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-079",
+      "file": "fan-079.wav",
+      "duration": 6.24,
+      "voice": "tiendat",
+      "textVersion": "a0b58c4d13bdbd94",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-080",
+      "file": "fan-080.wav",
+      "duration": 5.68,
+      "voice": "tiendat",
+      "textVersion": "864109db55289b9e",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-081",
+      "file": "fan-081.wav",
+      "duration": 5.68,
+      "voice": "tiendat",
+      "textVersion": "482ca61f6f042d7f",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-082",
+      "file": "fan-082.wav",
+      "duration": 5.76,
+      "voice": "tiendat",
+      "textVersion": "579e6ad9006ea0e6",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-083",
+      "file": "fan-083.wav",
+      "duration": 4.88,
+      "voice": "tiendat",
+      "textVersion": "4ab577c7863c9a7f",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-084",
+      "file": "fan-084.wav",
+      "duration": 6.8,
+      "voice": "tiendat",
+      "textVersion": "16df0f650ae0e20f",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-085",
+      "file": "fan-085.wav",
+      "duration": 7.36,
+      "voice": "tiendat",
+      "textVersion": "6d7a10d93f155294",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-086",
+      "file": "fan-086.wav",
+      "duration": 7.36,
+      "voice": "tiendat",
+      "textVersion": "16343ee28668dd24",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-087",
+      "file": "fan-087.wav",
+      "duration": 6.64,
+      "voice": "tiendat",
+      "textVersion": "90188a7d4f250af7",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-088",
+      "file": "fan-088.wav",
+      "duration": 6.0,
+      "voice": "tiendat",
+      "textVersion": "d73d9ea1e1395ecb",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-089",
+      "file": "fan-089.wav",
+      "duration": 6.48,
+      "voice": "tiendat",
+      "textVersion": "e4f0ffa5bec239cf",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-090",
+      "file": "fan-090.wav",
+      "duration": 6.72,
+      "voice": "tiendat",
+      "textVersion": "e0243ee2ce2cc985",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-091",
+      "file": "fan-091.wav",
+      "duration": 5.92,
+      "voice": "tiendat",
+      "textVersion": "69dfa482d32850ba",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-092",
+      "file": "fan-092.wav",
+      "duration": 6.72,
+      "voice": "tiendat",
+      "textVersion": "38c602c505b3b09b",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-093",
+      "file": "fan-093.wav",
+      "duration": 5.52,
+      "voice": "tiendat",
+      "textVersion": "65bf168f345c27a6",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-094",
+      "file": "fan-094.wav",
+      "duration": 7.36,
+      "voice": "tiendat",
+      "textVersion": "531208ccdf5bc26d",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-095",
+      "file": "fan-095.wav",
+      "duration": 5.84,
+      "voice": "tiendat",
+      "textVersion": "1410fe8020c28ef2",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-096",
+      "file": "fan-096.wav",
+      "duration": 6.64,
+      "voice": "tiendat",
+      "textVersion": "8e14b83b49000519",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-097",
+      "file": "fan-097.wav",
+      "duration": 7.2,
+      "voice": "tiendat",
+      "textVersion": "14ac3a863ae78bde",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-098",
+      "file": "fan-098.wav",
+      "duration": 6.8,
+      "voice": "tiendat",
+      "textVersion": "ffb5ac9231b0ba19",
+      "textNormalized": true
+    },
+    {
+      "id": "fan-099",
+      "file": "fan-099.wav",
+      "duration": 6.32,
+      "voice": "tiendat",
+      "textVersion": "490f40eef98bf83d",
+      "textNormalized": true
+    }
+  ],
+  "engine": "ZeroTTS",
+  "voice": "tiendat",
+  "speed": 1.0
+}

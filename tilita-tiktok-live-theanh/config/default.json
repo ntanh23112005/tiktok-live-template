@@ -1,0 +1,22 @@
+{
+  "sceneTitle": "Tâm an lạc",
+  "sceneVersion": "wooden-temple-v2",
+  "showRitualBoard": true,
+  "showLeaderboard": true,
+  "voiceEnabled": true,
+  "voiceVolume": 0.85,
+  "participation": { "likesEnabled": true },
+  "username": "",
+  "volume": 0.35,
+  "musicVolume": 0.2,
+  "musicFile": "",
+  "queueLimit": 200,
+  "commentCooldownSec": 30,
+  "social": { "like": false, "follow": false, "share": false },
+  "rules": [
+    { "id": "incense", "enabled": true, "type": "comment", "match": "thắp hương, dâng hương", "action": "incense", "priority": 0 },
+    { "id": "prayer", "enabled": true, "type": "comment", "match": "cầu an, cầu bình an", "action": "prayer", "priority": 0 },
+    { "id": "fortune", "enabled": true, "type": "comment", "match": "xin xăm, gieo quẻ", "action": "fortune", "priority": 0 },
+    { "id": "v2-gift-tiers", "enabled": true, "type": "gift", "match": "*", "action": "auto", "priority": 10 }
+  ]
+}

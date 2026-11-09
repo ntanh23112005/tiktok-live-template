@@ -1,0 +1,142 @@
+{
+  "version": "mu-meme-v1.3",
+  "sources": "public/assets/sounds/source",
+  "mode": "short-sequential",
+  "clipsTrimmed": true,
+  "selection": "strongest energy window, original pitch and speed",
+  "items": [
+    {
+      "cue": "vo-tay",
+      "file": "vo-tay.mp3",
+      "parts": [
+        {
+          "source": "clap",
+          "start": 0,
+          "length": 3.4
+        }
+      ],
+      "duration": 3.4
+    },
+    {
+      "cue": "hoa-hong-1",
+      "file": "hoa-hong-1.mp3",
+      "parts": [
+        {
+          "source": "clap",
+          "start": 0,
+          "length": 3.4
+        }
+      ],
+      "duration": 3.4
+    },
+    {
+      "cue": "dong-cua-hang",
+      "file": "dong-cua-hang.mp3",
+      "parts": [
+        {
+          "source": "goal",
+          "start": 1.4,
+          "length": 3.6
+        }
+      ],
+      "duration": 3.6
+    },
+    {
+      "cue": "compa-antony",
+      "file": "compa-antony.mp3",
+      "parts": [
+        {
+          "source": "goal",
+          "start": 1.4,
+          "length": 3.6
+        }
+      ],
+      "duration": 3.6
+    },
+    {
+      "cue": "siuuu",
+      "file": "siuuu.mp3",
+      "parts": [
+        {
+          "source": "siuuuu",
+          "start": 0,
+          "length": 2.1
+        }
+      ],
+      "duration": 2.1
+    },
+    {
+      "cue": "ole-cam-lai",
+      "file": "ole-cam-lai.mp3",
+      "parts": [
+        {
+          "source": "goal",
+          "start": 1.4,
+          "length": 3.0
+        },
+        {
+          "source": "clap",
+          "start": 1.6,
+          "length": 2.0
+        }
+      ],
+      "duration": 5.0
+    },
+    {
+      "cue": "fergie-time",
+      "file": "fergie-time.mp3",
+      "parts": [
+        {
+          "source": "goal",
+          "start": 1.5,
+          "length": 2.4
+        },
+        {
+          "source": "clap",
+          "start": 2.3,
+          "length": 1.3
+        },
+        {
+          "source": "siuuuu",
+          "start": 0,
+          "length": 2.1
+        }
+      ],
+      "duration": 5.800249
+    },
+    {
+      "cue": "ggmu-mo-hoi",
+      "file": "ggmu-mo-hoi.mp3",
+      "parts": [
+        {
+          "source": "goal",
+          "start": 1.5,
+          "length": 2.4
+        },
+        {
+          "source": "clap",
+          "start": 2.3,
+          "length": 1.3
+        },
+        {
+          "source": "siuuuu",
+          "start": 0,
+          "length": 2.1
+        }
+      ],
+      "duration": 5.800249
+    },
+    {
+      "cue": "khan-dai",
+      "file": "khan-dai.mp3",
+      "parts": [
+        {
+          "source": "goal",
+          "start": 1.4,
+          "length": 3.6
+        }
+      ],
+      "duration": 3.6
+    }
+  ]
+}

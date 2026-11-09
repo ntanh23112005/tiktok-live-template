@@ -1,0 +1,695 @@
+[
+  {
+    "id": "an-01",
+    "number": 1,
+    "title": "Tâm an",
+    "text": "Gió qua rồi lá lại yên.\nLòng mình cũng có khoảng trời bình an.",
+    "message": "Dành một hơi thở chậm cho chính mình. Việc chưa xong có thể làm từng chút, không cần mang tất cả trong một ngày."
+  },
+  {
+    "id": "an-02",
+    "number": 2,
+    "title": "Biết đủ",
+    "text": "Một chén trà, một mái nhà.\nĐiều bình dị cũng là điều đáng quý.",
+    "message": "Nhìn lại điều đang có và người đang ở bên. Lòng biết ơn giúp ta chăm sóc hiện tại bằng một tâm thế nhẹ nhàng hơn."
+  },
+  {
+    "id": "an-03",
+    "number": 3,
+    "title": "Lời lành",
+    "text": "Một lời nhẹ giữa ngày mưa.\nCó khi sưởi ấm được người rất lâu.",
+    "message": "Hôm nay hãy nói một lời tử tế, với người khác và cả với mình. Không cần nói nhiều, chỉ cần nói bằng sự chân thành."
+  },
+  {
+    "id": "an-04",
+    "number": 4,
+    "title": "Chậm lại",
+    "text": "Đường xa xin bước thong dong.\nChậm một nhịp để nghe lòng rõ hơn.",
+    "message": "Khi bối rối, hãy tạm dừng trước khi quyết định. Một khoảng lặng nhỏ có thể giúp ta nhìn thấy điều thực sự cần làm."
+  },
+  {
+    "id": "an-05",
+    "number": 5,
+    "title": "Bao dung",
+    "text": "Trời rộng ôm cả mây chiều.\nLòng rộng giữ được bao điều khác nhau.",
+    "message": "Mỗi người đều có câu chuyện riêng. Lắng nghe trước khi phán xét, và giữ sự tử tế ngay cả khi ta không cùng quan điểm."
+  },
+  {
+    "id": "an-06",
+    "number": 6,
+    "title": "Bước nhỏ",
+    "text": "Giọt nước nhỏ, tháng ngày sâu.\nViệc lành vun đắp bắt đầu từ đây.",
+    "message": "Chọn một việc nhỏ có ích và làm cho trọn hôm nay. Những bước đều đặn thường đưa ta đi xa hơn một lần cố quá sức."
+  },
+  {
+    "id": "an-07",
+    "number": 7,
+    "title": "Lắng nghe",
+    "text": "Lặng im nghe tiếng lá rơi.\nLặng lòng nghe được những lời chưa vang.",
+    "message": "Dành cho người thân vài phút lắng nghe trọn vẹn. Có lúc sự hiện diện chân thành quý hơn một lời khuyên vội vàng."
+  },
+  {
+    "id": "an-08",
+    "number": 8,
+    "title": "Buông nhẹ",
+    "text": "Tay buông một chiếc lá khô.\nĐể còn nâng lấy nhành hoa mới về.",
+    "message": "Điều đã qua không nhất thiết phải mang theo mãi. Giữ lại bài học, đặt xuống phần trách móc và dành sức cho hôm nay."
+  },
+  {
+    "id": "an-09",
+    "number": 9,
+    "title": "Ngọn đèn",
+    "text": "Đèn nhỏ chẳng sáng cả trời.\nVẫn soi đủ một bước người đang đi.",
+    "message": "Bạn không cần có mọi câu trả lời ngay lúc này. Chăm sóc việc trước mắt bằng sự cẩn trọng, rồi bước tiếp khi đã sẵn sàng."
+  },
+  {
+    "id": "an-10",
+    "number": 10,
+    "title": "Hiếu hòa",
+    "text": "Bếp nhà ấm một lời thăm.\nThương nhau từ những âm thầm mỗi ngày.",
+    "message": "Nếu có thể, hãy hỏi thăm một người thân hôm nay. Một cuộc gọi ngắn, một lời cảm ơn cũng là cách giữ gìn tình thương."
+  },
+  {
+    "id": "an-11",
+    "number": 11,
+    "title": "Chân thành",
+    "text": "Hoa không cần nói mình thơm.\nLòng thành tự có con đường đến nhau.",
+    "message": "Làm điều tốt trong khả năng của mình, không cần chờ người khác nhìn thấy. Sự chân thành được nuôi bằng những việc rất bình thường."
+  },
+  {
+    "id": "an-12",
+    "number": 12,
+    "title": "Nghỉ ngơi",
+    "text": "Cánh chim cũng có lúc dừng.\nNgười đi cũng cần một vùng nghỉ chân.",
+    "message": "Cho phép mình nghỉ khi đã mệt. Một bữa ăn đủ, một giấc ngủ yên và một khoảng thảnh thơi đều xứng đáng được chăm sóc."
+  },
+  {
+    "id": "an-13",
+    "number": 13,
+    "title": "Nhân duyên",
+    "text": "Gặp nhau giữa một ngày thường.\nXin trao một chút yêu thương đủ đầy.",
+    "message": "Trân trọng người đang cùng mình đi một đoạn đường. Không cần giữ chặt mọi cuộc gặp, chỉ cần đối đãi tử tế khi còn bên nhau."
+  },
+  {
+    "id": "an-14",
+    "number": 14,
+    "title": "Kiên nhẫn",
+    "text": "Hạt nằm yên dưới đất mềm.\nĐợi ngày đủ nắng sẽ thêm mầm lành.",
+    "message": "Có việc cần thêm thời gian để thành hình. Kiên nhẫn không phải đứng yên, mà là tiếp tục vun đắp bằng những bước vừa sức."
+  },
+  {
+    "id": "an-15",
+    "number": 15,
+    "title": "Sửa mình",
+    "text": "Gương trong soi một nét người.\nLòng trong soi được những điều cần thay.",
+    "message": "Nhận ra một thiếu sót là cơ hội bắt đầu lại. Thay vì tự trách thật lâu, hãy chọn một hành động cụ thể để sửa hôm nay."
+  },
+  {
+    "id": "an-16",
+    "number": 16,
+    "title": "Chia sẻ",
+    "text": "Bàn tay mở, hạt cơm lành.\nNiềm vui lớn tự những phần nhỏ thôi.",
+    "message": "Chia sẻ trong khả năng, bằng thời gian, sự giúp đỡ hay một lời động viên. Đừng quên giữ đủ sức để chăm sóc cả bản thân mình."
+  },
+  {
+    "id": "an-17",
+    "number": 17,
+    "title": "Tự tại",
+    "text": "Mây trôi theo lối của mây.\nMình đi cho vững những ngày của mình.",
+    "message": "Không cần lấy hành trình của người khác làm thước đo cho mình. Chọn điều phù hợp với hoàn cảnh và bước đi bằng sự tỉnh táo."
+  },
+  {
+    "id": "an-18",
+    "number": 18,
+    "title": "Giữ lời",
+    "text": "Lời hẹn như một nhành xanh.\nChăm bằng việc thật mới thành bóng cây.",
+    "message": "Hứa điều mình có thể làm và cố gắng làm đúng lời. Nếu chưa làm được, hãy nói rõ và cùng tìm cách sửa cho chân thành."
+  },
+  {
+    "id": "an-19",
+    "number": 19,
+    "title": "Thấu hiểu",
+    "text": "Qua cầu mới hiểu dòng sâu.\nQua lời mới biết nỗi đau một người.",
+    "message": "Điều mình nhìn thấy có thể chỉ là một phần câu chuyện. Hỏi thêm một câu nhẹ nhàng trước khi đưa ra kết luận về người khác."
+  },
+  {
+    "id": "an-20",
+    "number": 20,
+    "title": "Hiện tại",
+    "text": "Nắng đang hong một hiên nhà.\nĐời đang ở chính phút ta thở này.",
+    "message": "Trở về với một việc đang làm, một hơi thở và một âm thanh quanh mình. Hiện tại là nơi ta có thể bắt đầu chăm sóc cuộc sống."
+  },
+  {
+    "id": "an-21",
+    "number": 21,
+    "title": "Can đảm",
+    "text": "Bước đầu dù có ngập ngừng.\nVẫn là một bước qua vùng lo âu.",
+    "message": "Can đảm có thể là nói lời xin lỗi hoặc nhờ người khác giúp. Hãy bắt đầu bằng việc nhỏ và tìm sự đồng hành khi cần."
+  },
+  {
+    "id": "an-22",
+    "number": 22,
+    "title": "Hòa nhã",
+    "text": "Nước mềm qua những ghềnh cao.\nLời mềm giữ được nhịp cầu đôi bên.",
+    "message": "Khi bất đồng, giữ giọng nói bình tĩnh và nói rõ điều mình cần. Sự hòa nhã có thể đi cùng một ranh giới vững vàng."
+  },
+  {
+    "id": "an-23",
+    "number": 23,
+    "title": "Gieo lành",
+    "text": "Một mầm xanh giữa sân đời.\nChăm từ hôm sớm, tốt tươi từng ngày.",
+    "message": "Chọn một thói quen có ích và dành cho nó một chút thời gian. Điều tốt bền lâu thường được nuôi dưỡng bằng sự đều đặn."
+  },
+  {
+    "id": "an-24",
+    "number": 24,
+    "title": "Bình an",
+    "text": "Chiều về khép một ngày qua.\nXin lòng giữ lại hiền hòa mà thôi.",
+    "message": "Khép ngày bằng một điều biết ơn và một điều có thể buông xuống. Ngày mai ta lại có cơ hội bắt đầu bằng sự tử tế."
+  },
+  {
+    "id": "an-25",
+    "number": 25,
+    "title": "Mở lòng",
+    "text": "Cửa mở đón một vầng mai.\nLòng mở đón những điều hay vào nhà.",
+    "message": "Đón một góc nhìn mới bằng sự tò mò, nhưng vẫn giữ điều mình trân trọng. Lắng nghe thêm không có nghĩa là phải đồng ý với tất cả."
+  },
+  {
+    "id": "an-26",
+    "number": 26,
+    "title": "Nâng đỡ",
+    "text": "Cành nghiêng có gió nâng cùng.\nĐường xa có bạn, ngại ngùng cũng qua.",
+    "message": "Khi ai đó đang gặp khó, một sự giúp đỡ vừa sức có thể rất quý. Nếu chính mình cần được nâng đỡ, hãy tìm đến một người đáng tin."
+  },
+  {
+    "id": "an-27",
+    "number": 27,
+    "title": "Gạn trong",
+    "text": "Nước đục xin để lắng dần.\nLòng rối xin một lần ngồi lại yên.",
+    "message": "Tạm đặt việc tranh luận xuống khi cảm xúc còn mạnh. Khi đã bình tâm, thử phân biệt điều mình biết chắc với điều mình đang lo hoặc đoán."
+  },
+  {
+    "id": "an-28",
+    "number": 28,
+    "title": "Đường về",
+    "text": "Đi xa nhớ một mái hiên.\nQuay về chăm chút những điều thân quen.",
+    "message": "Giữa những dự định mới, dành một chút thời gian cho nơi mình đang sống. Dọn một góc nhỏ, chăm một chậu cây cũng là cách tìm lại sự gần gũi."
+  },
+  {
+    "id": "an-29",
+    "number": 29,
+    "title": "Nhường bước",
+    "text": "Đường hẹp nhường một bước chân.\nHai người cùng đến, xa gần đều vui.",
+    "message": "Trong một bất đồng nhỏ, thử tìm cách để cả hai cùng thuận tiện. Nhường một việc phù hợp không làm mất đi giá trị hay tiếng nói của mình."
+  },
+  {
+    "id": "an-30",
+    "number": 30,
+    "title": "Trọn việc",
+    "text": "Kim đi từng mũi chỉ đều.\nViệc làm trọn vẹn nuôi nhiều an tâm.",
+    "message": "Chọn một việc đang dang dở và dành cho nó sự chú ý trọn vẹn. Hoàn thành vừa sức rồi nghỉ, thay vì để nhiều việc cùng kéo lòng mình đi."
+  },
+  {
+    "id": "an-31",
+    "number": 31,
+    "title": "Lời cảm ơn",
+    "text": "Ơn người như bóng cây xanh.\nNhớ bằng lời nói, giữ bằng việc làm.",
+    "message": "Nghĩ đến một người từng giúp mình và gửi họ lời cảm ơn cụ thể. Gọi tên một điều tốt đã nhận khiến tình thương trở nên gần gũi hơn."
+  },
+  {
+    "id": "an-32",
+    "number": 32,
+    "title": "Thật lòng",
+    "text": "Tiếng chuông vang giữa sân chùa.\nLời ngay xin nói cho vừa lòng nhau.",
+    "message": "Nếu có điều khó nói, hãy chọn lúc cả hai đủ bình tĩnh. Nói thật điều mình cảm nhận, tránh đoán ý và dành chỗ cho người kia được trả lời."
+  },
+  {
+    "id": "an-33",
+    "number": 33,
+    "title": "Gieo vui",
+    "text": "Một nụ cười nhỏ trao nhau.\nNgày dài cũng bớt một màu nhọc nhằn.",
+    "message": "Tìm một niềm vui giản dị để chia sẻ hôm nay. Một lời hỏi thăm, một câu chuyện nhẹ hay một việc làm dễ thương đều có thể đem lại sự ấm áp."
+  },
+  {
+    "id": "an-34",
+    "number": 34,
+    "title": "Bền chí",
+    "text": "Tre xanh qua những mùa mưa.\nRễ sâu giữ lấy sớm trưa vững vàng.",
+    "message": "Nhìn lại điều khiến mình muốn bắt đầu. Nếu mục tiêu vẫn phù hợp, hãy chọn một bước nhỏ có thể duy trì, rồi điều chỉnh nhịp đi theo sức của mình."
+  },
+  {
+    "id": "an-35",
+    "number": 35,
+    "title": "Khoảng trời",
+    "text": "Giữa cành vẫn có trời xanh.\nGiữa ngày bận rộn để dành phút yên.",
+    "message": "Chừa một khoảng ngắn không phải hoàn thành điều gì. Ngắm ánh sáng, nghe tiếng xung quanh hoặc ngồi yên một lát, để mình có cơ hội nghỉ và cảm nhận."
+  },
+  {
+    "id": "an-36",
+    "number": 36,
+    "title": "Đặt xuống",
+    "text": "Vai mang xin bớt một phần.\nViệc nào chưa tới, để lần mai sau.",
+    "message": "Viết ra điều đang khiến mình nặng lòng rồi chọn việc thực sự cần làm hôm nay. Những việc còn lại có thể hẹn một thời điểm rõ ràng để quay lại."
+  },
+  {
+    "id": "an-37",
+    "number": 37,
+    "title": "Đồng hành",
+    "text": "Hai bàn chân khác nhịp đi.\nBiết chờ nhau lại, đường thì gần hơn.",
+    "message": "Mỗi người có một nhịp sống và khả năng khác nhau. Khi cùng làm một việc, thử hỏi người bên cạnh cần gì và nói rõ mình có thể giúp đến đâu."
+  },
+  {
+    "id": "an-38",
+    "number": 38,
+    "title": "Học hỏi",
+    "text": "Trang sách mở một đường xa.\nĐiều chưa biết cũng là quà ngày nay.",
+    "message": "Cho phép mình chưa biết và hỏi một câu thật rõ. Học thêm một điều nhỏ, rồi thử áp dụng, sẽ có ích hơn việc tự trách vì mình chưa giỏi."
+  },
+  {
+    "id": "an-39",
+    "number": 39,
+    "title": "Vừa đủ",
+    "text": "Chén đầy xin rót vừa tay.\nLòng vui từ những tháng ngày biết dừng.",
+    "message": "Trước khi nhận thêm một việc, nhìn lại thời gian và sức lực đang có. Biết nói chưa thể lúc này cũng là một cách giữ lời với điều đã nhận."
+  },
+  {
+    "id": "an-40",
+    "number": 40,
+    "title": "Trân quý",
+    "text": "Bông hoa nở cạnh lối quen.\nDừng chân mới thấy dịu êm vẫn còn.",
+    "message": "Chú ý đến một điều tốt đẹp mình thường bỏ qua. Có thể là bữa cơm, một bàn tay giúp đỡ hay một buổi chiều yên, rồi dành cho nó chút trân trọng."
+  },
+  {
+    "id": "an-41",
+    "number": 41,
+    "title": "Dịu với mình",
+    "text": "Áo sờn vẫn giữ thân êm.\nMình chưa hoàn hảo, vẫn nên thương mình.",
+    "message": "Khi lỡ một việc, thử nói với mình như cách nói với người bạn quý. Nhìn thẳng vào điều cần sửa, đồng thời ghi nhận phần mình đã cố gắng."
+  },
+  {
+    "id": "an-42",
+    "number": 42,
+    "title": "Chọn điều lành",
+    "text": "Ngã đường có lúc phân vân.\nChọn sao cho bớt tổn thương đôi phần.",
+    "message": "Trước một lựa chọn khó, nghĩ đến ảnh hưởng của nó với mình và người khác. Chọn cách chân thành, rõ ràng, có trách nhiệm trong điều mình có thể biết."
+  },
+  {
+    "id": "an-43",
+    "number": 43,
+    "title": "Gìn giữ",
+    "text": "Mái nhà bền bởi chăm nom.\nTình thân bền bởi sớm hôm nhớ nhau.",
+    "message": "Điều quan trọng thường cần được chăm sóc đều đặn. Dành một hành động cụ thể cho mối quan hệ mình quý, như giữ một lời hẹn hoặc hỏi thăm đúng lúc."
+  },
+  {
+    "id": "an-44",
+    "number": 44,
+    "title": "Ngày mới",
+    "text": "Nắng lên hong một nhành sương.\nMở ngày bằng chút yêu thương nhẹ nhàng.",
+    "message": "Không cần đợi một ngày hoàn hảo để bắt đầu. Chọn một việc tốt có thể làm ngay trong hoàn cảnh hiện tại, rồi cho mình cơ hội đi tiếp từng bước."
+  },
+  {
+    "id": "an-45",
+    "number": 45,
+    "title": "Đối thoại",
+    "text": "Qua sông nhờ một nhịp cầu.\nHiểu nhau nhờ nói đôi câu thật lòng.",
+    "message": "Nếu đang hiểu lầm, hãy bắt đầu bằng câu hỏi thay cho lời kết tội. Nói điều mình quan sát được và điều mình mong muốn, rồi nghe câu trả lời cho trọn."
+  },
+  {
+    "id": "an-46",
+    "number": 46,
+    "title": "Thảnh thơi",
+    "text": "Bước chân chạm nhẹ sân chiều.\nChẳng cần đi vội vẫn nhiều hương hoa.",
+    "message": "Làm chậm một việc thường ngày để nhận ra mình đang ở đây. Uống một ngụm nước, đi vài bước hoặc nhìn ra cửa, không cần biến phút nghỉ thành nhiệm vụ."
+  },
+  {
+    "id": "an-47",
+    "number": 47,
+    "title": "Tử tế bền lâu",
+    "text": "Đèn soi không kể đêm dài.\nLòng lành giữ ở việc ngay mỗi ngày.",
+    "message": "Sự tử tế không nhất thiết là việc lớn. Giữ cách cư xử công bằng, tôn trọng lời người khác và làm điều mình đã nhận cũng là những việc đáng quý."
+  },
+  {
+    "id": "an-48",
+    "number": 48,
+    "title": "An trú",
+    "text": "Mây qua để gió đưa đường.\nTa về giữ một khoảng thương trong lòng.",
+    "message": "Dành một phút nhận biết mình đang cảm thấy gì mà chưa vội phán xét. Từ khoảng dừng ấy, chọn điều thiết thực có thể làm để chăm sóc hôm nay."
+  },
+  {
+    "id": "an-49",
+    "number": 49,
+    "title": "Mầm hy vọng",
+    "text": "Đất mềm ôm hạt qua đêm.\nTay người chăm chút cho thêm mầm lành.",
+    "message": "Khi một dự định còn nhỏ, hãy dành cho nó một việc làm cụ thể. Ghi lại điều đã thử và điều cần học, để hy vọng có chỗ đứng trong đời thường."
+  },
+  {
+    "id": "an-50",
+    "number": 50,
+    "title": "Bến đợi",
+    "text": "Thuyền neo nghỉ cạnh bờ tre.\nNgười chờ sửa mái, lắng nghe nước về.",
+    "message": "Có những việc đang cần câu trả lời từ người khác. Trong lúc chờ, chuẩn bị phần thuộc về mình và hẹn thời điểm hỏi lại, thay vì để cả ngày trôi trong thấp thỏm."
+  },
+  {
+    "id": "an-51",
+    "number": 51,
+    "title": "Gốc rễ",
+    "text": "Cây cao nhớ đất dưới chân.\nNgười đi nhớ những ân cần thuở xưa.",
+    "message": "Nhớ đến người hoặc nơi đã nâng đỡ mình khi bắt đầu. Giữ một điều tốt đã học từ họ, rồi thể hiện lòng biết ơn bằng cách đối đãi tử tế hôm nay."
+  },
+  {
+    "id": "an-52",
+    "number": 52,
+    "title": "Gỡ nút",
+    "text": "Sợi tơ rối giữa bàn tay.\nGỡ từng mối nhỏ, chớ lay cả cuồng.",
+    "message": "Việc khó thường gồm nhiều phần khác nhau. Viết ra từng phần, tìm điều đang mắc nhất và giải quyết một chỗ trước; chưa cần sửa tất cả trong cùng một lúc."
+  },
+  {
+    "id": "an-53",
+    "number": 53,
+    "title": "Hẹn với mình",
+    "text": "Sớm mai hẹn một đường quen.\nGiữ điều đã chọn, thắp lên đèn lòng.",
+    "message": "Đặt một lời hẹn nhỏ mà mình có thể giữ được. Chọn giờ rõ ràng, chuẩn bị điều cần thiết và ghi nhận mỗi lần làm được, dù kết quả còn giản dị."
+  },
+  {
+    "id": "an-54",
+    "number": 54,
+    "title": "Dừng lời nóng",
+    "text": "Than hồng chớ nắm trong tay.\nLời đang giận dữ, xin chờ gió nguôi.",
+    "message": "Nếu đang muốn nói một câu làm người khác đau, hãy tạm dừng cuộc trò chuyện. Nói rõ mình cần ít phút bình tĩnh và quay lại vào thời điểm đã hẹn."
+  },
+  {
+    "id": "an-55",
+    "number": 55,
+    "title": "Một bữa cơm",
+    "text": "Khói chiều quấn mái nhà quen.\nBát cơm chia nửa, tình thêm một phần.",
+    "message": "Dành sự chú ý cho một bữa ăn cùng người mình quý. Cất điện thoại một lát, hỏi thăm một việc trong ngày và để người bên cạnh được nói cho hết câu."
+  },
+  {
+    "id": "an-56",
+    "number": 56,
+    "title": "Cửa sổ",
+    "text": "Hé song đón chút nắng vàng.\nĐổi nơi đứng ngắm, thấy ngàn nét quen.",
+    "message": "Nếu suy nghĩ mãi mà vẫn bế tắc, thử đổi cách tiếp cận. Viết ra một cách nhìn khác hoặc hỏi ý kiến người có kinh nghiệm, rồi tự cân nhắc điều phù hợp."
+  },
+  {
+    "id": "an-57",
+    "number": 57,
+    "title": "Lối riêng",
+    "text": "Suối qua khe đá quanh co.\nVẫn theo dòng chảy, chẳng so đường dài.",
+    "message": "Mỗi người có điểm bắt đầu và điều kiện khác nhau. So tiến bộ của mình với chính mình trước đây, rồi chọn một mục tiêu vừa sức cho chặng tiếp theo."
+  },
+  {
+    "id": "an-58",
+    "number": 58,
+    "title": "Giữ nhịp",
+    "text": "Mái chèo đều giữa dòng sâu.\nChẳng cần vội vã, vẫn mau đến bờ.",
+    "message": "Một nhịp làm việc có thể duy trì thường quý hơn một ngày cố quá sức. Chia việc thành phần nhỏ, dành giờ nghỉ và điều chỉnh kế hoạch khi hoàn cảnh đổi thay."
+  },
+  {
+    "id": "an-59",
+    "number": 59,
+    "title": "Đón lời góp ý",
+    "text": "Gương lau sáng một góc mờ.\nNghe lời góp ý, đợi chờ hiểu thêm.",
+    "message": "Khi nhận góp ý, hỏi rõ một ví dụ trước khi phản ứng. Giữ lại điều hữu ích để thử sửa; phần chưa phù hợp có thể trao đổi lại bằng lời bình tĩnh."
+  },
+  {
+    "id": "an-60",
+    "number": 60,
+    "title": "Hạt giống hôm nay",
+    "text": "Gieo rau khi đất còn mềm.\nChăm luống nhỏ trước, vườn thêm sắc lành.",
+    "message": "Chọn một thói quen mình muốn nuôi dưỡng và bắt đầu thật nhỏ. Đặt nó cạnh một việc đã quen làm mỗi ngày, để việc tốt có chỗ trong nhịp sống hiện tại."
+  },
+  {
+    "id": "an-61",
+    "number": 61,
+    "title": "Xin lỗi đúng lúc",
+    "text": "Chén nghiêng xin đỡ bằng tay.\nLời sai xin sửa từ ngay hôm này.",
+    "message": "Nếu đã làm ai buồn, hãy nhận phần trách nhiệm của mình một cách cụ thể. Hỏi điều có thể khắc phục và tôn trọng thời gian người kia cần để đón nhận lời xin lỗi."
+  },
+  {
+    "id": "an-62",
+    "number": 62,
+    "title": "Ranh giới lành",
+    "text": "Vườn hoa có lối có rào.\nGiữ mình yên ổn, vẫn chào người qua.",
+    "message": "Nói rõ điều mình có thể nhận và điều vượt quá khả năng. Một lời từ chối lịch sự, có giới hạn rõ ràng, giúp mình giữ sức cho những điều đã cam kết."
+  },
+  {
+    "id": "an-63",
+    "number": 63,
+    "title": "Bớt so đo",
+    "text": "Sen hồng chẳng trách sen xanh.\nMỗi hoa một vẻ, mỗi cành một hương.",
+    "message": "Khi thấy mình so sánh với người khác, thử gọi tên điều thực sự đang mong muốn. Từ đó chọn một việc mình có thể học hoặc làm, thay vì chỉ đếm phần hơn kém."
+  },
+  {
+    "id": "an-64",
+    "number": 64,
+    "title": "Thắp sáng góc nhỏ",
+    "text": "Hiên nhà một ngọn đèn con.\nĐủ soi lối bước, đủ tròn đêm yên.",
+    "message": "Đừng xem nhẹ một sự giúp đỡ nhỏ đúng lúc. Chỉ đường, nhường chỗ hoặc giải thích một việc rõ ràng đều có thể khiến ngày của ai đó dễ dàng hơn."
+  },
+  {
+    "id": "an-65",
+    "number": 65,
+    "title": "Vững giữa đổi thay",
+    "text": "Mùa sang lá đổi trên cành.\nRễ còn bám đất, cây dành sức lên.",
+    "message": "Khi hoàn cảnh thay đổi, nhìn lại điều mình vẫn có thể giữ: cách cư xử, một thói quen tốt hoặc người đáng tin. Từ chỗ vững ấy, điều chỉnh từng phần của kế hoạch."
+  },
+  {
+    "id": "an-66",
+    "number": 66,
+    "title": "Hỏi cho rõ",
+    "text": "Đường chia xin hỏi người quen.\nHiểu rồi mới bước, bớt phen ngại ngùng.",
+    "message": "Một câu hỏi rõ có thể tránh nhiều hiểu lầm. Hỏi lại điều mình chưa hiểu, nhắc lại ý chính bằng lời của mình và kiểm tra xem hai bên đã cùng hiểu chưa."
+  },
+  {
+    "id": "an-67",
+    "number": 67,
+    "title": "Chăm điều đang có",
+    "text": "Bình hoa thay nước mỗi ngày.\nĐiều quen được giữ từ tay chăm nom.",
+    "message": "Trước khi tìm thêm một điều mới, xem điều đang có cần được chăm chút ra sao. Sửa một món đồ, hoàn thành một lời hẹn hoặc dành thời gian cho người thân đều đáng làm."
+  },
+  {
+    "id": "an-68",
+    "number": 68,
+    "title": "Lời khen thật",
+    "text": "Hoa thơm xin nói người hay.\nMột lời ghi nhận làm đầy niềm vui.",
+    "message": "Nếu thấy ai làm tốt một việc, hãy nói rõ mình quý điều gì ở việc ấy. Lời ghi nhận cụ thể thường ấm áp hơn một lời khen nói cho qua chuyện."
+  },
+  {
+    "id": "an-69",
+    "number": 69,
+    "title": "Bước qua ngại ngùng",
+    "text": "Cánh cửa chờ một bàn tay.\nGõ lời đầu nhỏ, mở ngày gặp nhau.",
+    "message": "Có điều mình muốn bắt đầu nhưng còn ngần ngại. Hãy thử phần nhỏ và dễ làm nhất, như gửi một câu hỏi hoặc chuẩn bị một bản nháp, rồi quan sát điều xảy ra."
+  },
+  {
+    "id": "an-70",
+    "number": 70,
+    "title": "Làm cùng nhau",
+    "text": "Một tay dựng chẳng nên giàn.\nNhiều tay cùng đỡ, dây lan vươn dài.",
+    "message": "Khi cùng làm việc, thống nhất ai phụ trách phần nào và khi nào cần báo lại. Chia sẻ khó khăn sớm giúp mọi người tìm cách hỗ trợ trước khi việc trở nên gấp gáp."
+  },
+  {
+    "id": "an-71",
+    "number": 71,
+    "title": "Dọn lối",
+    "text": "Quét sân gom lá cuối chiều.\nLối đi thoáng lại, lòng nhiều khoảng xanh.",
+    "message": "Dành ít phút dọn một góc mình thường sử dụng. Giữ lại đồ cần thiết và đặt chúng ở chỗ dễ tìm, để ngày mai bớt một việc phải loay hoay."
+  },
+  {
+    "id": "an-72",
+    "number": 72,
+    "title": "Đúng lúc",
+    "text": "Đợi trà bớt nóng hãy mời.\nChọn khi lòng dịu, trao lời cùng nhau.",
+    "message": "Một chuyện quan trọng cần cả nội dung và thời điểm phù hợp. Hỏi xem người kia có thể dành thời gian lắng nghe không, rồi nói điều chính bằng lời rõ ràng."
+  },
+  {
+    "id": "an-73",
+    "number": 73,
+    "title": "Giữ niềm tin nhỏ",
+    "text": "Lời làm khớp tựa đôi bờ.\nNhịp cầu tin cậy xây từ việc quen.",
+    "message": "Niềm tin được chăm bằng những việc có thể kiểm chứng mỗi ngày. Làm đúng điều đã nhận, báo sớm khi gặp trở ngại và để hành động nói cùng lời mình đã hứa."
+  },
+  {
+    "id": "an-74",
+    "number": 74,
+    "title": "Qua một ngày khó",
+    "text": "Mưa dài ướt cả hàng hiên.\nTìm nơi trú tạm, giữ yên bước mình.",
+    "message": "Trong một ngày khó, chỉ cần chọn điều thiết yếu trước mắt. Ăn một bữa, nghỉ một lát hoặc liên lạc với người mình tin; những việc còn lại có thể sắp xếp sau."
+  },
+  {
+    "id": "an-75",
+    "number": 75,
+    "title": "Tập trung",
+    "text": "Mũi kim theo một đường may.\nTâm theo một việc, bàn tay bớt rời.",
+    "message": "Đặt một khoảng thời gian ngắn cho một việc duy nhất. Tạm cất điều gây xao nhãng, làm đến điểm dừng đã chọn rồi mới xem mình cần tiếp tục hay nghỉ ngơi."
+  },
+  {
+    "id": "an-76",
+    "number": 76,
+    "title": "Không vội kết luận",
+    "text": "Mây che chưa hết trời xanh.\nChuyện nghe một nửa, xin dành hỏi thêm.",
+    "message": "Một lời kể hay một hình ảnh có thể chưa đủ để hiểu toàn bộ sự việc. Kiểm tra điều còn thiếu và nghe từ người liên quan trước khi đưa ra nhận xét."
+  },
+  {
+    "id": "an-77",
+    "number": 77,
+    "title": "Khoan dung có chừng",
+    "text": "Mái hiên che được cơn mưa.\nCửa nhà vẫn khép khi chưa an lòng.",
+    "message": "Mình có thể bớt oán trách mà vẫn giữ khoảng cách cần thiết. Chỉ nhận lại một điều khi cảm thấy đủ tin cậy, và nói rõ giới hạn mình muốn được tôn trọng."
+  },
+  {
+    "id": "an-78",
+    "number": 78,
+    "title": "Niềm vui học được",
+    "text": "Tay quen từ những lần sai.\nMỗi lần thử lại, thêm vài điều hay.",
+    "message": "Nhớ một điều trước đây mình chưa biết mà nay đã làm được. Ghi nhận quá trình tập luyện ấy và dùng sự kiên nhẫn tương tự cho điều đang học hôm nay."
+  },
+  {
+    "id": "an-79",
+    "number": 79,
+    "title": "Lắng lòng trước chữ",
+    "text": "Dòng tin chớ vội gửi đi.\nĐọc thêm lần nữa, nghĩ vì lòng nhau.",
+    "message": "Trước khi gửi một tin nhắn khi đang bực, đọc lại và bỏ những câu làm tổn thương. Viết rõ sự việc, điều mình cần và một đề nghị cụ thể để hai bên trao đổi."
+  },
+  {
+    "id": "an-80",
+    "number": 80,
+    "title": "Góp một phần",
+    "text": "Giọt nhỏ cùng tới nguồn chung.\nViệc lành vừa sức, góp cùng người bên.",
+    "message": "Khi muốn giúp một việc chung, hỏi xem đang cần điều gì thực tế. Chọn phần phù hợp với thời gian và khả năng của mình, rồi làm đến nơi đến chốn."
+  },
+  {
+    "id": "an-81",
+    "number": 81,
+    "title": "Nhớ người thầm lặng",
+    "text": "Sân sạch nhờ một tay quen.\nNgày yên nhờ những người bên âm thầm.",
+    "message": "Chú ý đến người đang làm những việc ít được nhắc tên quanh mình. Một lời cảm ơn đúng việc, cùng cách cư xử tôn trọng, có thể khiến họ cảm thấy được nhìn nhận."
+  },
+  {
+    "id": "an-82",
+    "number": 82,
+    "title": "Mùa nào việc nấy",
+    "text": "Mùa gieo vun đất chờ mầm.\nMùa thu gom trái, chẳng cầm hoa non.",
+    "message": "Nhìn xem việc mình đang làm ở giai đoạn nào. Khi mới bắt đầu, ưu tiên học và thử; khi đã có kết quả, dành thời gian kiểm tra và hoàn thiện phần còn thiếu."
+  },
+  {
+    "id": "an-83",
+    "number": 83,
+    "title": "Tự soi nhẹ nhàng",
+    "text": "Mặt hồ soi bóng trời trong.\nNhìn mình cho rõ, giữ lòng hiền hơn.",
+    "message": "Cuối ngày, chọn một việc đã làm tốt và một việc muốn sửa. Ghi lại hành động cụ thể cho ngày mai, để nhìn lại trở thành cách học thay vì một lần tự trách."
+  },
+  {
+    "id": "an-84",
+    "number": 84,
+    "title": "Chừa chỗ cho khác biệt",
+    "text": "Vườn chung nhiều sắc nhiều hương.\nKhác nhau vẫn có con đường cùng đi.",
+    "message": "Không phải khác biệt nào cũng cần phân thắng thua. Tìm điều hai bên cùng coi trọng, thống nhất cách làm chung và dành chỗ cho phần mỗi người được tự lựa chọn."
+  },
+  {
+    "id": "an-85",
+    "number": 85,
+    "title": "Dấu chân cũ",
+    "text": "Nhìn đường đã bước qua đây.\nMới hay chân nhỏ cũng đầy dặm xa.",
+    "message": "Khi thấy mình chưa tiến được bao nhiêu, thử nhìn lại một tháng trước. Gọi tên điều đã hiểu hơn hoặc làm vững hơn, rồi chọn bước kế tiếp từ chính chỗ đang đứng."
+  },
+  {
+    "id": "an-86",
+    "number": 86,
+    "title": "Trao quyền lựa chọn",
+    "text": "Chim bay theo hướng trời riêng.\nThương nhau xin để khoảng yên lựa đường.",
+    "message": "Khi người thân đứng trước một lựa chọn, hỏi họ cần được nghe hay cần góp ý. Chia sẻ điều mình biết, đồng thời tôn trọng phần quyết định thuộc về cuộc sống của họ."
+  },
+  {
+    "id": "an-87",
+    "number": 87,
+    "title": "Tiếng chuông nhắc nhớ",
+    "text": "Chuông ngân qua mái ngói chiều.\nNhắc mình trở lại với điều đang làm.",
+    "message": "Chọn một dấu hiệu quen trong ngày làm lời nhắc dừng lại. Khi nghe tiếng chuông hoặc nhìn thấy ánh chiều, nhận biết tư thế, hơi thở và việc mình muốn dành tâm sức."
+  },
+  {
+    "id": "an-88",
+    "number": 88,
+    "title": "Đừng bỏ quên mình",
+    "text": "Tưới vườn nhớ một nhành hoa.\nThương người xin nhớ mình là người thương.",
+    "message": "Nếu đã dành nhiều sức chăm sóc người khác, hãy xem mình đang cần gì. Nói rõ một việc muốn được hỗ trợ và dành một khoảng nghỉ có thể thực hiện hôm nay."
+  },
+  {
+    "id": "an-89",
+    "number": 89,
+    "title": "Khi chưa biết",
+    "text": "Đêm sâu chưa rõ lối mòn.\nCầm đèn tìm hiểu, bước còn thong dong.",
+    "message": "Chưa biết câu trả lời là lý do để tìm hiểu thêm. Ghi ra điều cần xác minh, chọn người hoặc nguồn đáng tin và để quyết định quan trọng có đủ thông tin cần thiết."
+  },
+  {
+    "id": "an-90",
+    "number": 90,
+    "title": "Giữ điều giản dị",
+    "text": "Áo thường, nước mát, hiên xanh.\nNgày vui đôi lúc chỉ dành thế thôi.",
+    "message": "Chọn một điều giản dị khiến mình dễ chịu và dành thời gian cho nó. Không cần biến mọi khoảng trống thành việc phải đạt được; đôi khi được sống chậm đã là điều quý."
+  },
+  {
+    "id": "an-91",
+    "number": 91,
+    "title": "Học cách nhận",
+    "text": "Tay trao rồi lại tay nâng.\nTình thương có cả những lần nhận nhau.",
+    "message": "Khi ai đó muốn giúp một việc phù hợp, mình có thể đón nhận. Nói rõ điều cần, cảm ơn sự giúp đỡ và nhớ rằng sự đồng hành có thể đi từ cả hai phía."
+  },
+  {
+    "id": "an-92",
+    "number": 92,
+    "title": "Bắt đầu lại vừa sức",
+    "text": "Trang còn giấy trắng bên lề.\nViết thêm một nét, đường về mở ra.",
+    "message": "Một lần gián đoạn không xóa đi điều mình đã học. Chọn lại phiên bản nhỏ nhất của việc muốn tiếp tục và bắt đầu từ hôm nay, không cần bù hết những ngày đã lỡ."
+  },
+  {
+    "id": "an-93",
+    "number": 93,
+    "title": "Thành thật với cảm xúc",
+    "text": "Mưa là mưa, nắng là ngày.\nBuồn vui xin gọi tên ngay trong lòng.",
+    "message": "Thử gọi đúng tên cảm xúc hiện tại: buồn, mệt, lo hay vui. Nhận biết nó trước, rồi chọn cách bày tỏ phù hợp; mình không cần vội ép mọi cảm giác phải biến mất."
+  },
+  {
+    "id": "an-94",
+    "number": 94,
+    "title": "Một việc cho ngày mai",
+    "text": "Chiều nay xếp gọn đôi giày.\nSớm mai nhẹ bước, đỡ vài bận tâm.",
+    "message": "Trước khi nghỉ, chuẩn bị một việc nhỏ cho ngày mai. Đặt sẵn vật cần dùng hoặc viết ba điều ưu tiên, rồi cho phép phần còn lại được chờ đến sáng."
+  },
+  {
+    "id": "an-95",
+    "number": 95,
+    "title": "Ở bên cho trọn",
+    "text": "Ngồi gần chẳng chỉ gần vai.\nLòng nghe cho trọn, đường dài bớt xa.",
+    "message": "Khi ở cùng người mình quý, thử dành một khoảng không bị ngắt bởi màn hình. Hỏi một câu mình thực sự muốn hiểu và chú ý đến câu trả lời của họ."
+  },
+  {
+    "id": "an-96",
+    "number": 96,
+    "title": "Việc tốt kín đáo",
+    "text": "Rễ cây lặng dưới đất sâu.\nNuôi cành xanh lá, chẳng cầu gọi tên.",
+    "message": "Làm một việc có ích mà không cần kể công. Có thể là dọn chỗ dùng chung hoặc giúp người khác hoàn thành một phần việc, miễn là vẫn trong khả năng của mình."
+  },
+  {
+    "id": "an-97",
+    "number": 97,
+    "title": "Công bằng",
+    "text": "Cân ngay nhờ giữ hai bên.\nLòng ngay nhờ nghĩ phần riêng phần người.",
+    "message": "Khi chia việc hoặc chia phần, hỏi xem mỗi người đang gánh điều gì. Đưa ra cách phân chia rõ ràng, nghe ý kiến liên quan và điều chỉnh khi có điều chưa hợp lý."
+  },
+  {
+    "id": "an-98",
+    "number": 98,
+    "title": "Giữ sự tò mò",
+    "text": "Lối quen vẫn có hoa vàng.\nNhìn thêm một chút, thấy ngàn điều hay.",
+    "message": "Thử hỏi một câu mới về điều mình vẫn làm hằng ngày. Tìm hiểu vì sao nó diễn ra như vậy và thử một thay đổi nhỏ, nếu thay đổi ấy có ích và phù hợp."
+  },
+  {
+    "id": "an-99",
+    "number": 99,
+    "title": "Nhìn điều có thể",
+    "text": "Gió ngoài chẳng giữ trong tay.\nTay còn giữ được mái chèo hôm nay.",
+    "message": "Chia điều đang lo thành hai phần: việc mình có thể tác động và việc nằm ngoài khả năng. Dành sức cho một hành động cụ thể ở phần đầu, rồi hẹn lúc xem lại phần sau."
+  }
+]

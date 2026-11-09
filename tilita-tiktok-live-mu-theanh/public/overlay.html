@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Hang MU · Màn hình LIVE</title>
+    <link rel="icon" href="/assets/mu-cave-v1/manchester-united.svg" />
+    <link rel="stylesheet" href="/overlay.css?v=mu-v1.3" />
+    <link rel="stylesheet" href="/meme-effects.css?v=mu-v1.3" />
+    <script type="module" src="/js/overlay.js?v=mu-v1.3"></script>
+  </head>
+  <body data-scene-version="mu-cave-v1">
+    <div id="viewport">
+      <main id="stage">
+        <img
+          class="background"
+          src="/assets/mu-cave-v1/background.png"
+          alt="Hang Quỷ đỏ, lửa, thảm đỏ và đại sảnh MU"
+        />
+        <div class="vignette"></div>
+        <canvas
+          id="particles"
+          width="1080"
+          height="1920"
+          aria-hidden="true"
+        ></canvas>
+        <header class="stage-header">
+          <p>OFF FANCLUB · MANCHESTER UNITED</p>
+          <h1 id="title">HANG QUỶ ĐỎ - HANG M.U</h1>
+          <span id="channel">Vào hang cùng anh em</span>
+        </header>
+        <div class="session-hud">
+          <span><i></i><b id="memberCount">0</b> fan trong hang</span
+          ><span id="sessionClock">00:00:00</span>
+        </div>
+        <section
+          id="acknowledgement"
+          hidden
+          aria-label="Cảm ơn follow, chia sẻ và 10 tim"
+        >
+          <img alt="" hidden /><span class="ack-initial"></span>
+          <div class="ack-window">
+            <div class="ack-scroll">
+              <span class="ack-message"></span><strong></strong>
+            </div>
+          </div>
+        </section>
+        <img
+          class="club-crest"
+          src="/assets/mu-cave-v1/manchester-united.svg"
+          alt="Manchester United"
+        />
+        <aside id="giftBoard" class="gift-board" aria-label="Bảy mốc quà meme">
+          <div class="participation">
+            <strong>10 tim hoặc gõ “vào hang”</strong
+            ><span>Vào hang → Vái Carrick → Về chỗ</span>
+          </div>
+          <div class="command-box">
+            <p>Comment Nam/Nữ/Ronaldo/Maguire để thay đổi ngoại hình</p>
+          </div>
+          <div class="command-box">
+            <p>Comment Đứng/Ngồi/Nằm/Chửi/Khóc để thay đổi động tác</p>
+          </div>
+          <div id="giftTiers"></div>
+        </aside>
+        <aside id="ranking" class="ranking">
+          <h2 id="rankingTitle">Fan cứng</h2>
+          <div id="top"></div>
+        </aside>
+        <div class="principal">
+          <img
+            src="/assets/mu-cave-v1/carrick.png"
+            alt="Nhân vật meme Michael Carrick"
+          /><strong>CHỦ NHIỆM CARRICK</strong
+          ><small>Gõ “vào hang” để lên vái</small>
+        </div>
+        <div class="role-title chiefs">BÁ CHỦ HANG · TOP 3</div>
+        <div class="role-title deputies">PHÓ CHỦ · TOP 4–7</div>
+        <div id="hall" role="list" aria-label="Fan trong hang luân phiên"></div>
+        <div id="hallRoster"></div>
+        <div id="interactionBubbles" aria-label="Thoại của fan"></div>
+        <div id="actor" hidden>
+          <div id="actorSprite"></div>
+          <div class="actor-name">
+            <span id="actorName"></span><small id="actorAction"></small>
+          </div>
+        </div>
+        <div id="effectLayer" hidden aria-hidden="true"></div>
+        <section id="fanCard" hidden aria-label="Thẻ meme MU">
+          <p id="cardNumber"></p>
+          <h2 id="cardTitle"></h2>
+          <p id="cardMessage"></p>
+          <strong id="cardRecipient"></strong
+          ><small>Chỉ cần bạn có mặt - Thắng thua vẫn là anh em M.U</small>
+        </section>
+        <section id="donationThanks" hidden aria-label="Cảm ơn người ủng hộ">
+          <p class="thanks-heading">CẢM ƠN ANH EM QUỶ ĐỎ</p>
+          <div class="thanks-person">
+            <img id="thanksAvatar" alt="" hidden /><span
+              id="thanksInitial"
+            ></span
+            ><strong id="thanksName"></strong>
+          </div>
+          <p class="thanks-label">ĐÃ ỦNG HỘ</p>
+          <strong id="thanksCoins"></strong>
+          <p id="thanksGift"></p>
+          <small>Góp tiền xây hang cho cả làng!</small>
+        </section>
+        <footer class="stage-footer">
+          <div>
+            <small>TIẾP THEO</small
+            ><strong id="nextName">Chờ anh em vào hang</strong>
+          </div>
+          <span id="waiting">Chưa có lượt chờ</span>
+          <p>MÙA GIẢI SAU SẼ LÀ MÙA GIẢI CỦA CHÚNG TA</p>
+        </footer>
+      </main>
+    </div>
+    <button id="enableAudio">Bật tiếng</button>
+    <div id="connection" role="status">Đang tải hang MU…</div>
+  </body>
+</html>

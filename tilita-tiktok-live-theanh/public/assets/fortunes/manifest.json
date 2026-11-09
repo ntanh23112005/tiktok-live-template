@@ -1,0 +1,701 @@
+{
+  "items": [
+    {
+      "id": "an-01",
+      "textVersion": "44a063bb9920ddf0",
+      "voice": "maichi",
+      "file": "an-01.wav",
+      "duration": 7.411
+    },
+    {
+      "id": "an-02",
+      "textVersion": "a7c4d7206e711d68",
+      "voice": "maichi",
+      "file": "an-02.wav",
+      "duration": 9.263
+    },
+    {
+      "id": "an-03",
+      "textVersion": "f1da86a0b42c012b",
+      "voice": "maichi",
+      "file": "an-03.wav",
+      "duration": 8.084
+    },
+    {
+      "id": "an-04",
+      "textVersion": "6ff4a52db9fe4d13",
+      "voice": "maichi",
+      "file": "an-04.wav",
+      "duration": 8.926
+    },
+    {
+      "id": "an-05",
+      "textVersion": "e0dddcd5cbc80d32",
+      "voice": "maichi",
+      "file": "an-05.wav",
+      "duration": 9.011
+    },
+    {
+      "id": "an-06",
+      "textVersion": "eb9a3738dbf39990",
+      "voice": "maichi",
+      "file": "an-06.wav",
+      "duration": 9.095
+    },
+    {
+      "id": "an-07",
+      "textVersion": "f9a945d749443c34",
+      "voice": "maichi",
+      "file": "an-07.wav",
+      "duration": 8.926
+    },
+    {
+      "id": "an-08",
+      "textVersion": "610e21bb1cd22a6b",
+      "voice": "maichi",
+      "file": "an-08.wav",
+      "duration": 9.263
+    },
+    {
+      "id": "an-09",
+      "textVersion": "1e781453afd86d43",
+      "voice": "maichi",
+      "file": "an-09.wav",
+      "duration": 9.263
+    },
+    {
+      "id": "an-10",
+      "textVersion": "32ee5ae005a7a04c",
+      "voice": "maichi",
+      "file": "an-10.wav",
+      "duration": 8.421
+    },
+    {
+      "id": "an-11",
+      "textVersion": "6d74f9a67ff54fa4",
+      "voice": "maichi",
+      "file": "an-11.wav",
+      "duration": 8.168
+    },
+    {
+      "id": "an-12",
+      "textVersion": "e2cfb2841607b0cb",
+      "voice": "maichi",
+      "file": "an-12.wav",
+      "duration": 9.516
+    },
+    {
+      "id": "an-13",
+      "textVersion": "b2477bde2aafc73a",
+      "voice": "maichi",
+      "file": "an-13.wav",
+      "duration": 9.095
+    },
+    {
+      "id": "an-14",
+      "textVersion": "a86ec369e0e69fa1",
+      "voice": "maichi",
+      "file": "an-14.wav",
+      "duration": 8.421
+    },
+    {
+      "id": "an-15",
+      "textVersion": "bc4b67900f120397",
+      "voice": "maichi",
+      "file": "an-15.wav",
+      "duration": 9.179
+    },
+    {
+      "id": "an-16",
+      "textVersion": "d3138da7e3eb9940",
+      "voice": "maichi",
+      "file": "an-16.wav",
+      "duration": 10.021
+    },
+    {
+      "id": "an-17",
+      "textVersion": "1b02de603e09d3f1",
+      "voice": "maichi",
+      "file": "an-17.wav",
+      "duration": 8.589
+    },
+    {
+      "id": "an-18",
+      "textVersion": "828643ab7ecdd1fb",
+      "voice": "maichi",
+      "file": "an-18.wav",
+      "duration": 9.684
+    },
+    {
+      "id": "an-19",
+      "textVersion": "9a08d9805522204a",
+      "voice": "maichi",
+      "file": "an-19.wav",
+      "duration": 8.168
+    },
+    {
+      "id": "an-20",
+      "textVersion": "79d1466dda210d85",
+      "voice": "maichi",
+      "file": "an-20.wav",
+      "duration": 9.432
+    },
+    {
+      "id": "an-21",
+      "textVersion": "7e7b9cc34ad298bd",
+      "voice": "maichi",
+      "file": "an-21.wav",
+      "duration": 9.011
+    },
+    {
+      "id": "an-22",
+      "textVersion": "6fd89287d54922c1",
+      "voice": "maichi",
+      "file": "an-22.wav",
+      "duration": 9.095
+    },
+    {
+      "id": "an-23",
+      "textVersion": "f80ae35f9e08e212",
+      "voice": "maichi",
+      "file": "an-23.wav",
+      "duration": 8.421
+    },
+    {
+      "id": "an-24",
+      "textVersion": "41297d603d9256c2",
+      "voice": "maichi",
+      "file": "an-24.wav",
+      "duration": 10.021
+    },
+    {
+      "id": "an-25",
+      "textVersion": "082a4f86140373a8",
+      "voice": "maichi",
+      "file": "an-25.wav",
+      "duration": 9.179
+    },
+    {
+      "id": "an-26",
+      "textVersion": "78c99b10f023eb50",
+      "voice": "maichi",
+      "file": "an-26.wav",
+      "duration": 10.695
+    },
+    {
+      "id": "an-27",
+      "textVersion": "39514b9ae3c4948c",
+      "voice": "maichi",
+      "file": "an-27.wav",
+      "duration": 9.432
+    },
+    {
+      "id": "an-28",
+      "textVersion": "6bfecd93d7778bc2",
+      "voice": "maichi",
+      "file": "an-28.wav",
+      "duration": 11.958
+    },
+    {
+      "id": "an-29",
+      "textVersion": "55d62c698f8954c7",
+      "voice": "maichi",
+      "file": "an-29.wav",
+      "duration": 9.179
+    },
+    {
+      "id": "an-30",
+      "textVersion": "eab49b3585c1823d",
+      "voice": "maichi",
+      "file": "an-30.wav",
+      "duration": 10.947
+    },
+    {
+      "id": "an-31",
+      "textVersion": "750d48ea20e0354d",
+      "voice": "maichi",
+      "file": "an-31.wav",
+      "duration": 9.853
+    },
+    {
+      "id": "an-32",
+      "textVersion": "d48082656cafdcb8",
+      "voice": "maichi",
+      "file": "an-32.wav",
+      "duration": 11.2
+    },
+    {
+      "id": "an-33",
+      "textVersion": "8047e2621eede35b",
+      "voice": "maichi",
+      "file": "an-33.wav",
+      "duration": 10.947
+    },
+    {
+      "id": "an-34",
+      "textVersion": "6996de2e593d84d3",
+      "voice": "maichi",
+      "file": "an-34.wav",
+      "duration": 10.274
+    },
+    {
+      "id": "an-35",
+      "textVersion": "25e974bc6ea024d6",
+      "voice": "maichi",
+      "file": "an-35.wav",
+      "duration": 10.021
+    },
+    {
+      "id": "an-36",
+      "textVersion": "c488691d2944bca8",
+      "voice": "maichi",
+      "file": "an-36.wav",
+      "duration": 10.442
+    },
+    {
+      "id": "an-37",
+      "textVersion": "e9794a539e34c65e",
+      "voice": "maichi",
+      "file": "an-37.wav",
+      "duration": 9.768
+    },
+    {
+      "id": "an-38",
+      "textVersion": "4bf16556c2f74510",
+      "voice": "maichi",
+      "file": "an-38.wav",
+      "duration": 9.937
+    },
+    {
+      "id": "an-39",
+      "textVersion": "a3054fb6f7df5512",
+      "voice": "maichi",
+      "file": "an-39.wav",
+      "duration": 10.021
+    },
+    {
+      "id": "an-40",
+      "textVersion": "45065ba9fc397e9e",
+      "voice": "maichi",
+      "file": "an-40.wav",
+      "duration": 10.695
+    },
+    {
+      "id": "an-41",
+      "textVersion": "22e36700e14665bb",
+      "voice": "maichi",
+      "file": "an-41.wav",
+      "duration": 11.032
+    },
+    {
+      "id": "an-42",
+      "textVersion": "7dad2000c4841e2b",
+      "voice": "maichi",
+      "file": "an-42.wav",
+      "duration": 10.442
+    },
+    {
+      "id": "an-43",
+      "textVersion": "14972fc482ab0dd5",
+      "voice": "maichi",
+      "file": "an-43.wav",
+      "duration": 11.368
+    },
+    {
+      "id": "an-44",
+      "textVersion": "a6ff3465134f31a0",
+      "voice": "maichi",
+      "file": "an-44.wav",
+      "duration": 9.853
+    },
+    {
+      "id": "an-45",
+      "textVersion": "570f9a2ecc6aec9b",
+      "voice": "maichi",
+      "file": "an-45.wav",
+      "duration": 10.695
+    },
+    {
+      "id": "an-46",
+      "textVersion": "47f8a5b8ec27a87b",
+      "voice": "maichi",
+      "file": "an-46.wav",
+      "duration": 11.453
+    },
+    {
+      "id": "an-47",
+      "textVersion": "ca646d771f8c9107",
+      "voice": "maichi",
+      "file": "an-47.wav",
+      "duration": 11.453
+    },
+    {
+      "id": "an-48",
+      "textVersion": "b3eb2a6cf47514cb",
+      "voice": "maichi",
+      "file": "an-48.wav",
+      "duration": 10.695
+    },
+    {
+      "id": "an-49",
+      "textVersion": "9f34e72e47ed5281",
+      "voice": "maichi",
+      "file": "an-49.wav",
+      "duration": 11.453
+    },
+    {
+      "id": "an-50",
+      "textVersion": "0121684b0da1f416",
+      "voice": "maichi",
+      "file": "an-50.wav",
+      "duration": 10.947
+    },
+    {
+      "id": "an-51",
+      "textVersion": "5a4e9bae617a5862",
+      "voice": "maichi",
+      "file": "an-51.wav",
+      "duration": 11.705
+    },
+    {
+      "id": "an-52",
+      "textVersion": "6bc5f06bf0e90a4d",
+      "voice": "maichi",
+      "file": "an-52.wav",
+      "duration": 11.453
+    },
+    {
+      "id": "an-53",
+      "textVersion": "a647bf990bf28b58",
+      "voice": "maichi",
+      "file": "an-53.wav",
+      "duration": 11.705
+    },
+    {
+      "id": "an-54",
+      "textVersion": "96a52a275af65af9",
+      "voice": "maichi",
+      "file": "an-54.wav",
+      "duration": 10.358
+    },
+    {
+      "id": "an-55",
+      "textVersion": "3e38fca45c8f2513",
+      "voice": "maichi",
+      "file": "an-55.wav",
+      "duration": 11.453
+    },
+    {
+      "id": "an-56",
+      "textVersion": "3d53e198ca5ddb97",
+      "voice": "maichi",
+      "file": "an-56.wav",
+      "duration": 11.789
+    },
+    {
+      "id": "an-57",
+      "textVersion": "50de7c7fd6fa9204",
+      "voice": "maichi",
+      "file": "an-57.wav",
+      "duration": 10.105
+    },
+    {
+      "id": "an-58",
+      "textVersion": "72b91687dc33e276",
+      "voice": "maichi",
+      "file": "an-58.wav",
+      "duration": 11.368
+    },
+    {
+      "id": "an-59",
+      "textVersion": "37482af178841b68",
+      "voice": "maichi",
+      "file": "an-59.wav",
+      "duration": 12.632
+    },
+    {
+      "id": "an-60",
+      "textVersion": "4cd3702b9f1dfaf7",
+      "voice": "maichi",
+      "file": "an-60.wav",
+      "duration": 11.284
+    },
+    {
+      "id": "an-61",
+      "textVersion": "f46ea5a444f72eb4",
+      "voice": "maichi",
+      "file": "an-61.wav",
+      "duration": 11.621
+    },
+    {
+      "id": "an-62",
+      "textVersion": "9d30034e01cdbb77",
+      "voice": "maichi",
+      "file": "an-62.wav",
+      "duration": 11.2
+    },
+    {
+      "id": "an-63",
+      "textVersion": "a6ca3091f0d4549b",
+      "voice": "maichi",
+      "file": "an-63.wav",
+      "duration": 10.863
+    },
+    {
+      "id": "an-64",
+      "textVersion": "84e1606cd2eec7ee",
+      "voice": "maichi",
+      "file": "an-64.wav",
+      "duration": 11.116
+    },
+    {
+      "id": "an-65",
+      "textVersion": "b1651df258294d3a",
+      "voice": "maichi",
+      "file": "an-65.wav",
+      "duration": 11.284
+    },
+    {
+      "id": "an-66",
+      "textVersion": "3d13218120b70954",
+      "voice": "maichi",
+      "file": "an-66.wav",
+      "duration": 11.453
+    },
+    {
+      "id": "an-67",
+      "textVersion": "d5a870aa019c51b1",
+      "voice": "maichi",
+      "file": "an-67.wav",
+      "duration": 12.211
+    },
+    {
+      "id": "an-68",
+      "textVersion": "32b36ca53c0a3e69",
+      "voice": "maichi",
+      "file": "an-68.wav",
+      "duration": 10.526
+    },
+    {
+      "id": "an-69",
+      "textVersion": "8fbb00c9e1fc5a63",
+      "voice": "maichi",
+      "file": "an-69.wav",
+      "duration": 11.453
+    },
+    {
+      "id": "an-70",
+      "textVersion": "6597812ec4683468",
+      "voice": "maichi",
+      "file": "an-70.wav",
+      "duration": 10.526
+    },
+    {
+      "id": "an-71",
+      "textVersion": "8ea951c030e4f7b8",
+      "voice": "maichi",
+      "file": "an-71.wav",
+      "duration": 9.347
+    },
+    {
+      "id": "an-72",
+      "textVersion": "2f8920b51be17deb",
+      "voice": "maichi",
+      "file": "an-72.wav",
+      "duration": 10.863
+    },
+    {
+      "id": "an-73",
+      "textVersion": "9dda0b79e3920073",
+      "voice": "maichi",
+      "file": "an-73.wav",
+      "duration": 11.874
+    },
+    {
+      "id": "an-74",
+      "textVersion": "c2aff7ad156b3c21",
+      "voice": "maichi",
+      "file": "an-74.wav",
+      "duration": 10.779
+    },
+    {
+      "id": "an-75",
+      "textVersion": "95f0306edaf7f829",
+      "voice": "maichi",
+      "file": "an-75.wav",
+      "duration": 9.263
+    },
+    {
+      "id": "an-76",
+      "textVersion": "46c78de76d98a1e2",
+      "voice": "maichi",
+      "file": "an-76.wav",
+      "duration": 11.789
+    },
+    {
+      "id": "an-77",
+      "textVersion": "4c18324b2c74f0c3",
+      "voice": "maichi",
+      "file": "an-77.wav",
+      "duration": 11.116
+    },
+    {
+      "id": "an-78",
+      "textVersion": "8aa7e96a721b069a",
+      "voice": "maichi",
+      "file": "an-78.wav",
+      "duration": 10.611
+    },
+    {
+      "id": "an-79",
+      "textVersion": "74aa8c2679e5b670",
+      "voice": "maichi",
+      "file": "an-79.wav",
+      "duration": 12.126
+    },
+    {
+      "id": "an-80",
+      "textVersion": "618a7fa5d843f142",
+      "voice": "maichi",
+      "file": "an-80.wav",
+      "duration": 10.105
+    },
+    {
+      "id": "an-81",
+      "textVersion": "8cedfc7766153fa5",
+      "voice": "maichi",
+      "file": "an-81.wav",
+      "duration": 11.789
+    },
+    {
+      "id": "an-82",
+      "textVersion": "d9910c1ba9554034",
+      "voice": "maichi",
+      "file": "an-82.wav",
+      "duration": 11.284
+    },
+    {
+      "id": "an-83",
+      "textVersion": "c047f15b9fd39771",
+      "voice": "maichi",
+      "file": "an-83.wav",
+      "duration": 12.211
+    },
+    {
+      "id": "an-84",
+      "textVersion": "76a3fae17218182b",
+      "voice": "maichi",
+      "file": "an-84.wav",
+      "duration": 11.958
+    },
+    {
+      "id": "an-85",
+      "textVersion": "c80429e59eca8bad",
+      "voice": "maichi",
+      "file": "an-85.wav",
+      "duration": 10.947
+    },
+    {
+      "id": "an-86",
+      "textVersion": "d31e217f4c2503b4",
+      "voice": "maichi",
+      "file": "an-86.wav",
+      "duration": 12.126
+    },
+    {
+      "id": "an-87",
+      "textVersion": "e2e24df97ec0dbf6",
+      "voice": "maichi",
+      "file": "an-87.wav",
+      "duration": 12.463
+    },
+    {
+      "id": "an-88",
+      "textVersion": "9b2247faecf24eca",
+      "voice": "maichi",
+      "file": "an-88.wav",
+      "duration": 11.874
+    },
+    {
+      "id": "an-89",
+      "textVersion": "94f5c4691687a990",
+      "voice": "maichi",
+      "file": "an-89.wav",
+      "duration": 13.221
+    },
+    {
+      "id": "an-90",
+      "textVersion": "4c647adf3481236d",
+      "voice": "maichi",
+      "file": "an-90.wav",
+      "duration": 10.779
+    },
+    {
+      "id": "an-91",
+      "textVersion": "082312b48a8b3b2c",
+      "voice": "maichi",
+      "file": "an-91.wav",
+      "duration": 10.947
+    },
+    {
+      "id": "an-92",
+      "textVersion": "c5ac1044a35ad0c4",
+      "voice": "maichi",
+      "file": "an-92.wav",
+      "duration": 13.137
+    },
+    {
+      "id": "an-93",
+      "textVersion": "f976589b4afe092a",
+      "voice": "maichi",
+      "file": "an-93.wav",
+      "duration": 11.032
+    },
+    {
+      "id": "an-94",
+      "textVersion": "ddc4671c1de8577a",
+      "voice": "maichi",
+      "file": "an-94.wav",
+      "duration": 11.116
+    },
+    {
+      "id": "an-95",
+      "textVersion": "814bac9119f191d4",
+      "voice": "maichi",
+      "file": "an-95.wav",
+      "duration": 10.189
+    },
+    {
+      "id": "an-96",
+      "textVersion": "18181e2316c97b59",
+      "voice": "maichi",
+      "file": "an-96.wav",
+      "duration": 11.874
+    },
+    {
+      "id": "an-97",
+      "textVersion": "7fe47dc1325fd05d",
+      "voice": "maichi",
+      "file": "an-97.wav",
+      "duration": 11.368
+    },
+    {
+      "id": "an-98",
+      "textVersion": "583048a0f688f6ba",
+      "voice": "maichi",
+      "file": "an-98.wav",
+      "duration": 11.368
+    },
+    {
+      "id": "an-99",
+      "textVersion": "3356f0b57b864f0a",
+      "voice": "maichi",
+      "file": "an-99.wav",
+      "duration": 12.968
+    }
+  ],
+  "engine": "ZeroTTS 0.1.5",
+  "voice": "maichi",
+  "speed": 0.95,
+  "license": "MIT"
+}
